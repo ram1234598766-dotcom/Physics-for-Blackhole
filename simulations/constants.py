@@ -35,5 +35,5 @@ def bekenstein_hawking_entropy(M):
 
 
 def evaporation_time(M):
-    """Power-law lifetime t = M^3 * 5120 pi G^2 / (hbar c^4)."""
+    """Power-law lifetime t = M^3 * 5120 pi G^2 / (ħ c^4)."""
     return M ** 3 * 5120.0 * math.pi * G ** 2 / (HBAR * C ** 4)
