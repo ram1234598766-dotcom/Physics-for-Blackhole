@@ -836,6 +836,118 @@ with `alpha = 1/2` for the relaxation-limited regime and `alpha = 1` for the cod
 
 ---
 
+
+### 6.3 The three regimes of the constant
+
+**CONJECTURE M (three regimes).**  The value of `v_s,lin` relative to `c`
+classifies the substrate, and the classification is sharp.
+
+    regime I    v_s,lin = c        the substrate saturates at the readout
+                                   speed of light.  The interface is
+                                   lightlike; the five phases collapse to
+                                   the relativistic story, and the
+                                   framework reproduces the standard
+                                   semiclassical picture exactly.
+    regime II   v_s,lin << c       the substrate is non-relativistic.
+                                   Saturation is slow; the turnover tau_s
+                                   is far in substrate time; the staircase
+                                   is fine-grained.  This is the regime the
+                                   simulations of section 15 model.
+    regime III  v_s,lin > c        forbidden by Lemma G.1.  No substrate can
+                                   saturate faster than the readout light
+                                   cone without breaking causality of the
+                                   metric itself.
+
+**LEMMA G.2 (regime II is the generic one).**  For any finite black hole the
+physical Page time is finite, so `t_P` is finite.  In regime I the turnover is
+at the light cone, which is the limiting case of an infinite substrate speed;
+every finite object therefore lies in regime II unless it is exactly at the
+bound.  Regime I is a boundary, not a generic state.
+
+**FALSIFIER F13.**  If an analog-horizon experiment measures the Page-time shift
+and the implied `v_s,lin` exceeds `c`, the readout-causality bound (Conjecture
+K) is violated and the framework is dead.  If it measures `v_s,lin = c` exactly,
+Conjecture M's regime-I prediction is confirmed and the framework reduces to
+the standard story.  Either outcome is decisive; only `v_s,lin < c` leaves the
+framework standing in its own terms.
+## G. The native units and the saturation-speed constant
+
+This appendix defines a unit system native to the substrate, derived from
+postulates P1, P3 and P5 alone.  Every quantity below is a **defined** parameter
+of the framework; none is claimed to be a new constant of nature.  Where the
+appendix uses Planck units, it does so only as a convenient conversion, and the
+Planck length is standard physics (cited in Appendix D).
+
+### G.1 The fundamental quantum
+
+**CONJECTURE G.1 (the area quantum).**  The substrate is countable (P1) and a
+cut saturates (P3), so there is a smallest distinguishable area.  Define
+
+    a_0 = 4 ln 2 ell_P^2
+
+where `ell_P = sqrt(hbar G / c^3)` is the Planck length.  Then the number of
+area quanta needed to encode an area A is
+
+    N(A) = A / a0 = A / (4 ln 2 ell_P^2)
+
+which is exactly the Bekenstein-Hawking bit count `S_BH / ln 2`.  So `a_0`
+reproduces the black-hole entropy count without postulating it: it is the
+quantum that makes P1 and P3 consistent with the established area-entropy law.
+
+The native entropy density at saturation is one nat per quantum:
+
+    sigma_sat = 1 / a0 = 1 / (4 ln 2 ell_P^2)  nats per unit area
+
+### G.2 The native time and the saturation speed
+
+The substrate has its own time `tau` (section 5.5).  Let `tau_q` be the
+substrate time per quantum of area advance.  Then the interface advances at a
+native **area speed**
+
+    v_s = a_0 / tau_q        [L^2 / T_sub]
+
+and a native **linear speed**
+
+    v_s,lin = ell_P / tau_q  [L / T_sub]
+
+**CONJECTURE K (readout-causality bound).**  The readout is the metric (P4), so
+any observer built from the readout sees a light cone of speed `c`.  The
+interface advances through the substrate; its image under the readout map
+cannot exceed `c`, or the metric would be non-causal.  Hence
+
+    v_s,lin <= c
+
+with equality only if the substrate saturates at the readout speed of light.
+
+**LEMMA G.1 (the bound is the only constraint).**  No other postulate of the
+framework bounds `v_s,lin` from above.  Therefore `v_s,lin` is a free parameter
+of the substrate dynamics, to be fixed by data, not by theory.
+
+### G.3 The constant
+
+**CONJECTURE L (the constant is physical, not conventional).**  The parameter
+`v_s,lin` is not a choice of units.  It is the one free parameter of the
+saturation dynamics, and it is physical in the sense that it is *measurable*:
+the physical Page time `t_P` and the substrate turnover `tau_s` are related by a
+map whose Jacobian depends on `v_s,lin`, so a single analog-horizon measurement
+of the Page-time shift pins it.  Two different experiments that disagree about
+`v_s,lin` are disagreeing about the substrate, not about notation.
+
+The framework therefore has exactly **one** undetermined constant beyond the
+established ones (`hbar`, `G`, `c`, `k_B`).  Everything else follows.
+
+### G.4 Dimensional self-consistency
+
+The native unit system is closed:
+
+    [a_0]      = L^2
+    [sigma_sat] = 1 / L^2
+    [v_s,lin]  = L / T_sub
+    [tau_q]    = T_sub
+
+with `T_sub` the substrate time.  Converting to SI requires only the standard
+constants; no new dimensional scale is introduced.  The framework is
+dimensionally self-contained once `v_s,lin` is fixed.
 ## 7. The singularity resolved: knot, selection rule, three fates
 
 
@@ -2105,4 +2217,4 @@ All entries are real and were verified during the writing of this document.
 
 *End of document. §10 states what is new and what is not; §11 states what would kill it. Both are load-bearing and should be read before the rest.*
 
-
+**F13 -- The saturation-speed constant `v_s,lin` exceeds `c`.**  Conjecture K (readout-causality bound) says `v_s,lin <= c`.  An analog-horizon measurement of the Page-time shift that implies `v_s,lin > c` kills the framework outright.  If it measures `v_s,lin = c` exactly, Conjecture M's regime-I prediction is confirmed and the framework reduces to the standard story.  Only `v_s,lin < c` leaves the framework standing in its own terms.
