@@ -332,18 +332,18 @@ NULL TEST (SYNTHETIC data, no eta-dependence)
 [DERIVED OBS] C: 0.17650 | w_peak: 0.70833 | lambda_L: 11.27250
 
 === Joint Inversion Results (N = 1000 noisy measurements) ===
-Reconstructed eta   : 0.5142 +/- 0.0242 (True: 0.5000)
-Reconstructed r0    : 1.0220 +/- 0.2996 (True: 1.2000)
-Reconstructed alpha : 0.7245 +/- 0.2172 (True: 0.8500)
+Reconstructed eta   : 0.5146 +/- 0.0250 (True: 0.5000)
+Reconstructed r0    : 1.0168 +/- 0.3107 (True: 1.2000)
+Reconstructed alpha : 0.7221 +/- 0.2255 (True: 0.8500)
 
-Degeneracy Broken! Absolute bias in eta: 2.83%
+Degeneracy Broken! Absolute bias in eta: 2.92%
 [WARNING] eta bias above 1% — degeneracy not cleanly broken.
 
 ```
 
 ## FINAL SUMMARY
 
-**Is eta identifiable inside the model?** No from Page-time alone: it measures only slope C = eta·K(alpha)/r0 (one slope, three unknowns), degenerate with r0 and alpha. Adding model-dependent synthetic observables (graybody peak frequency, OTOC scrambling rate) in simulations/exp_inversion.py reduces but does not eliminate the degeneracy: pooled eta = 0.5142 +/- 0.0242 vs truth 0.5000 (bias 2.83%, above the 1% success threshold), while r0 = 1.0220 +/- 0.2996 and alpha = 0.7245 +/- 0.2172 remain poorly constrained. Both new observables are conjectured and unmeasured. [F14: relative error on eta > 100% after degeneracy-breaking => not identifiable.]
+**Is eta identifiable inside the model?** No from Page-time alone: it measures only slope C = eta·K(alpha)/r0 (one slope, three unknowns), degenerate with r0 and alpha. Adding model-dependent synthetic observables (graybody peak frequency, OTOC scrambling rate) in simulations/exp_inversion.py reduces but does not eliminate the degeneracy: pooled eta = 0.5146 +/- 0.0250 vs truth 0.5000 (bias 2.92%, above the 1% success threshold), while r0 = 1.0168 +/- 0.3107 and alpha = 0.7221 +/- 0.2255 remain poorly constrained. Both new observables are conjectured and unmeasured. [F14: relative error on eta > 100% after degeneracy-breaking => not identifiable.]
 
 **Is eta universal inside the model?** Yes, on SYNTHETIC data. A single shared eta describes systems with different analog scales (N0 spanning 1.2×10^3 to 10^10): pooled eta mean = 0.4992 vs hidden truth 0.5, std 0.0255 ≈ theory SE 0.0250, pass rate 99.7% within 3·SE, null-data false-claim-of-universality rate 0.0%. [F15: max_i |eta_i − eta_pooled| > 3·SE_pooled, or a false-universality rate above nominal, => not universal.]
 
