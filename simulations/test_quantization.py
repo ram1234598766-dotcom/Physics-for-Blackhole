@@ -1,4 +1,4 @@
-"""Partitionism test 2: the quantised payout.
+"""Physics-for-Blackhole test 2: the quantised payout.
 
 Prediction P1 of the framework: the radiation's entropy does not follow the
 smooth Page curve, it follows a *staircase* - one logical qunit (k_B ln 2) per
