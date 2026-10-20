@@ -1,4 +1,4 @@
-# Partitionism - simulation suite
+# Physics-for-Blackhole - simulation suite
 
 Pure Python (standard library only, no numpy).  Run from the repository root:
 
@@ -39,6 +39,6 @@ suite raises rather than reporting physics.
 ## Honest scope
 
 These simulations test the *internal consistency and quantitative
-consequences* of Partitionism's claims in controlled quantum systems.  They
+consequences* of Physics-for-Blackhole's claims in controlled quantum systems.  They
 do not show that the information substrate exists, and they are not
 observational tests of black holes.
