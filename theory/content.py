@@ -3781,4 +3781,49 @@ def appendix_f(d):
     d.para("**F.5  Falsifiers.**  F7-F12, in priority order: F7 (no staircase), "
            "F8 (no saturation), F9 (no degeneracy), F10 (substrate signal), F11 "
            "(remnant), F12 (interior observable).  Each is a commitment that can "
-           "fail.  See section 11 for the full statements.")
+           "fail.  See section 11 for the full statements, including F13, the "
+           "saturation-speed constant falsifier.")
+
+
+def appendix_g(d):
+    d.page_break()
+    d.heading("Appendix G.  Native units and the saturation-speed constant", 0)
+    d.para("This appendix defines a unit system native to the substrate, derived "
+           "from postulates P1, P3 and P5 alone.  Every quantity is a DEFINED "
+           "parameter of the framework; none is claimed to be a new constant of "
+           "nature.  Where Planck units are used they are standard physics.")
+    d.para("G.1  The fundamental quantum.  CONJECTURE G.1 (the area quantum).  The "
+           "substrate is countable (P1) and a cut saturates (P3), so there is a "
+           "smallest distinguishable area:  a0 = 4 ln 2 ell_P^2, where ell_P is the "
+           "Planck length.  The number of area quanta for area A is N(A) = A/a0, "
+           "which equals the Bekenstein-Hawking bit count S_BH / ln 2.  So a0 "
+           "reproduces the black-hole entropy count without postulating it.  The "
+           "native entropy density at saturation is one nat per quantum: "
+           "sigma_sat = 1/a0.")
+    d.para("G.2  The native time and the saturation speed.  The substrate has its "
+           "own time tau (section 5.5).  Let tau_q be the substrate time per quantum "
+           "of area advance.  Then the interface advances at a native area speed "
+           "v_s = a0 / tau_q and a native linear speed v_s,lin = ell_P / tau_q.  "
+           "CONJECTURE K (readout-causality bound): the readout is the metric (P4), "
+           "so any observer built from the readout sees a light cone of speed c.  "
+           "The interface advances through the substrate; its image under the "
+           "readout map cannot exceed c, or the metric would be non-causal.  Hence "
+           "v_s,lin <= c, with equality only if the substrate saturates at the "
+           "readout speed of light.")
+    d.para("LEMMA G.1 (the bound is the only constraint).  No other postulate of "
+           "the framework bounds v_s,lin from above.  Therefore v_s,lin is a free "
+           "parameter of the substrate dynamics, to be fixed by data, not by theory.")
+    d.para("G.3  The constant.  CONJECTURE L (the constant is physical, not "
+           "conventional).  The parameter v_s,lin is not a choice of units.  It is "
+           "the one free parameter of the saturation dynamics, and it is physical "
+           "in the sense that it is measurable: the physical Page time t_P and the "
+           "substrate turnover tau_s are related by a map whose Jacobian depends on "
+           "v_s,lin, so a single analog-horizon measurement of the Page-time shift "
+           "pins it.  Two experiments that disagree about v_s,lin are disagreeing "
+           "about the substrate, not about notation.  The framework therefore has "
+           "exactly one undetermined constant beyond the established ones.")
+    d.para("G.4  Dimensional self-consistency.  The native unit system is closed: "
+           "[a0] = L^2, [sigma_sat] = 1/L^2, [v_s,lin] = L/T_sub, [tau_q] = T_sub, "
+           "with T_sub the substrate time.  Converting to SI requires only the "
+           "standard constants; no new dimensional scale is introduced.")
+    d.para("Figure: figures/fig_regimes.svg shows the three regimes of v_s,lin / c.")
