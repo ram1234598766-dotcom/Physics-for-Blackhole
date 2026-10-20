@@ -4,7 +4,7 @@
 
 
 
-    python3 -m paper.build_paper [--out paper/partitionism.pdf]
+    python3 -m theory.build_paper [--out theory/partitionism.pdf]
 
 
 
@@ -3271,7 +3271,7 @@ def appendix_c(d):
     d.para("All numbers, tables and figures in this volume are produced by "
 
 
-           "the code in `simulations/` and `paper/`.  There are no "
+           "the code in `simulations/` and `theory/`.  There are no "
 
 
            "third-party dependencies - the build environment has no numpy, no "
