@@ -323,11 +323,29 @@ NULL TEST (SYNTHETIC data, no eta-dependence)
 
 ```
 
+## 6. Multi-observable joint inversion (exp_inversion)
+
+```
+=== Multi-Observable Joint Inversion Experiment ===
+(SYNTHETIC data — ground truth conjectured, Gaussian noise, seed=42)
+[TRUTH] eta: 0.5000 | r0: 1.2000 | alpha: 0.8500
+[DERIVED OBS] C: 0.17650 | w_peak: 0.70833 | lambda_L: 11.27250
+
+=== Joint Inversion Results (N = 1000 noisy measurements) ===
+Reconstructed eta   : 0.5142 +/- 0.0242 (True: 0.5000)
+Reconstructed r0    : 1.0220 +/- 0.2996 (True: 1.2000)
+Reconstructed alpha : 0.7245 +/- 0.2172 (True: 0.8500)
+
+Degeneracy Broken! Absolute bias in eta: 2.83%
+[WARNING] eta bias above 1% — degeneracy not cleanly broken.
+
+```
+
 ## FINAL SUMMARY
 
-**Is eta identifiable inside the model?** No. Page-time data measures only the slope C = eta·K(alpha)/r0 in t_P = C·N0. One slope, three unknowns (eta, r0, alpha): eta is degenerate with r0 and alpha and is NOT identifiable from Page-time data alone. Breaking the degeneracy needs an independent measurement: r0 (substrate rate dN/dtau at known N), alpha (from the full evaporation-curve shape), or a direct substrate-time reading tau. [F14: relative error on eta > 100% after degeneracy-breaking => not identifiable.]
+**Is eta identifiable inside the model?** No from Page-time alone: it measures only slope C = eta·K(alpha)/r0 (one slope, three unknowns), degenerate with r0 and alpha. Adding model-dependent synthetic observables (graybody peak frequency, OTOC scrambling rate) in simulations/exp_inversion.py reduces but does not eliminate the degeneracy: pooled eta = 0.5142 +/- 0.0242 vs truth 0.5000 (bias 2.83%, above the 1% success threshold), while r0 = 1.0220 +/- 0.2996 and alpha = 0.7245 +/- 0.2172 remain poorly constrained. Both new observables are conjectured and unmeasured. [F14: relative error on eta > 100% after degeneracy-breaking => not identifiable.]
 
 **Is eta universal inside the model?** Yes, on SYNTHETIC data. A single shared eta describes systems with different analog scales (N0 spanning 1.2×10^3 to 10^10): pooled eta mean = 0.4992 vs hidden truth 0.5, std 0.0255 ≈ theory SE 0.0250, pass rate 99.7% within 3·SE, null-data false-claim-of-universality rate 0.0%. [F15: max_i |eta_i − eta_pooled| > 3·SE_pooled, or a false-universality rate above nominal, => not universal.]
 
-**What remains untested.** eta is a [CONJECTURE] free parameter, not a constant of nature; establishing OM as a constant of nature would require an actual analog-horizon Page-time-shift measurement, which does not yet exist. No existing analog-horizon dataset supports the framework. The degeneracy-breaking measurements (independent r0, alpha, or direct tau) have not been performed on any system. theory/analog_assumptions.md lists the unproven assumptions needed to apply the model to a BEC or other analog horizon (healing length as analog Planck scale; Page-like behaviour requires backreaction). All numbers here come from test_numbers.py and test_om.py; all synthetic data is labelled SYNTHETIC.
+**What remains untested.** eta is a [CONJECTURE] free parameter, not a constant of nature; establishing OM as a constant of nature would require an actual analog-horizon Page-time-shift measurement, which does not yet exist. No existing analog-horizon dataset supports the framework. The degeneracy-breaking measurements (independent r0, alpha, or direct tau) have not been performed on any system. theory/analog_assumptions.md lists the unproven assumptions needed to apply the model to a BEC or other analog horizon (healing length as analog Planck scale; Page-like behaviour requires backreaction). All numbers here come from test_numbers.py, test_om.py, and exp_inversion.py; all synthetic data is labelled SYNTHETIC.
 

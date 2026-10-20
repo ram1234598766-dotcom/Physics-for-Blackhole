@@ -14,6 +14,7 @@ from . import test_quantization
 from . import test_readout
 from . import test_numbers
 from . import test_om
+from . import exp_inversion
 from . import validation
 
 
@@ -61,15 +62,21 @@ def main():
     parts.append(test_om.main_captured())
     parts.append("```\n")
 
+    parts.append("## 6. Multi-observable joint inversion (exp_inversion)\n")
+    parts.append("```")
+    parts.append(exp_inversion.main_captured())
+    parts.append("```\n")
+
     parts.append("## FINAL SUMMARY\n")
-    parts.append("**Is eta identifiable inside the model?** No. Page-time data measures only the "
-                 "slope C = eta·K(alpha)/r0 in t_P = C·N0. One slope, three unknowns "
-                 "(eta, r0, alpha): eta is degenerate with r0 and alpha and is NOT "
-                 "identifiable from Page-time data alone. Breaking the degeneracy needs "
-                 "an independent measurement: r0 (substrate rate dN/dtau at known N), "
-                 "alpha (from the full evaporation-curve shape), or a direct substrate-time "
-                 "reading tau. [F14: relative error on eta > 100% after degeneracy-breaking "
-                 "=> not identifiable.]\n")
+    parts.append("**Is eta identifiable inside the model?** No from Page-time alone: it measures "
+                 "only slope C = eta·K(alpha)/r0 (one slope, three unknowns), degenerate with "
+                 "r0 and alpha. Adding model-dependent synthetic observables (graybody peak "
+                 "frequency, OTOC scrambling rate) in simulations/exp_inversion.py reduces but "
+                 "does not eliminate the degeneracy: pooled eta = 0.5142 +/- 0.0242 vs truth "
+                 "0.5000 (bias 2.83%, above the 1% success threshold), while r0 = "
+                 "1.0220 +/- 0.2996 and alpha = 0.7245 +/- 0.2172 remain poorly constrained. "
+                 "Both new observables are conjectured and unmeasured. [F14: relative error on "
+                 "eta > 100% after degeneracy-breaking => not identifiable.]\n")
     parts.append("**Is eta universal inside the model?** Yes, on SYNTHETIC data. A single "
                  "shared eta describes systems with different analog scales (N0 spanning "
                  "1.2×10^3 to 10^10): pooled eta mean = 0.4992 vs hidden truth 0.5, std "
@@ -85,8 +92,8 @@ def main():
                  "have not been performed on any system. theory/analog_assumptions.md lists "
                  "the unproven assumptions needed to apply the model to a BEC or other "
                  "analog horizon (healing length as analog Planck scale; Page-like behaviour "
-                 "requires backreaction). All numbers here come from test_numbers.py and "
-                 "test_om.py; all synthetic data is labelled SYNTHETIC.\n")
+                 "requires backreaction). All numbers here come from test_numbers.py, "
+                 "test_om.py, and exp_inversion.py; all synthetic data is labelled SYNTHETIC.\n")
 
     text = "\n".join(parts) + "\n"
     path = os.path.join(here, "RESULTS.md")
