@@ -312,7 +312,7 @@ class Doc:
         self._emit_text(self.PAGE_W - self.MARGIN_R, self.MARGIN_B - 28,
                         runs, 8, align='right', color=(0.35, 0.35, 0.35))
 
-    _footer_left = 'Partitionism'
+    _footer_left = 'Physics-for-Blackhole'
 
     # -- text blocks -------------------------------------------------------
     def spacer(self, pts=6):
