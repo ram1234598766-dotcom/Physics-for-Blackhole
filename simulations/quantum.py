@@ -1,4 +1,4 @@
-"""Shared quantum-information utilities for the Partitionism test suite.
+"""Shared quantum-information utilities for the Physics-for-Blackhole test suite.
 
 Pure Python, no third-party dependencies.
 
