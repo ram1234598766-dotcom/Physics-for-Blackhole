@@ -1,6 +1,6 @@
-"""Assemble and write the Partitionism proceedings PDF.
+"""Assemble and write the Physics-for-Blackhole proceedings PDF.
 
-    python3 -m paper.build_paper [--out paper/partitionism.pdf]
+    python3 -m theory.build_paper [--out theory/partitionism.pdf]
 """
 
 import argparse
@@ -12,24 +12,25 @@ from . import content
 
 
 def build(out_path):
-    d = Doc(title="Partitionism: a framework for describing black holes as "
-                   "wholes - proceedings",
-            author="Partitionism research programme",
+    d = Doc(title="Physics-for-Blackhole: a framework for describing black "
+                   "holes as wholes - proceedings",
+            author="Physics-for-Blackhole research programme",
             subject="Black holes as wholes: theorems, proofs and numerical "
                     "verification")
-    d._footer_left = ("Partitionism %s  |  every claim labelled: THEOREM / "
-                      "ESTABLISHED / CONJECTURE / PREDICTION" % content.VERSION)
+    d._footer_left = ("Physics-for-Blackhole %s  |  every claim labelled: "
+                      "THEOREM / ESTABLISHED / CONJECTURE / PREDICTION"
+                      % content.VERSION)
 
     # ---------------- title page ----------------
     d.spacer(60)
-    d.para("**PARTITIONISM**", size=25, style='bold', align='center',
+    d.para("**PHYSICS-FOR-BLACKHOLE**", size=25, style='bold', align='center',
            leading=34, space_after=2)
     d.para("A framework for describing black holes as wholes", size=14,
            style='bodyi', align='center', leading=20, space_after=10)
     d.rule(weight=1.0, space=10)
     d.para("Proceedings of four papers", size=11, align='center', leading=16,
            space_after=2)
-    d.para("**Paper I**   Partitionism: a black hole in one language\n"
+    d.para("**Paper I**   Physics-for-Blackhole: a black hole in one language\n"
            "**Paper II**  The evaporation ledger: theorems and numerical "
            "verification\n"
            "**Paper III** Readout degeneracy: the singularity as an artefact "
@@ -53,10 +54,10 @@ def build(out_path):
            "statement and they are labelled wherever they appear: **THEOREM** "
            "and **LEMMA** (proved in place, with the proof given), "
            "**ESTABLISHED** (standard physics, cited in Appendix D), "
-           "**CONJECTURE** (part of Partitionism; not proved, and said so in "
-           "the text), and **PREDICTION** or **FALSIFIER** (a commitment that "
-           "can fail).  Nothing is presented as established physics unless it "
-           "is.  Appendix A is a register of every substantive claim in the "
+           "**CONJECTURE** (part of Physics-for-Blackhole; not proved, and said "
+           "so in the text), and **PREDICTION** or **FALSIFIER** (a commitment "
+           "that can fail).  Nothing is presented as established physics unless "
+           "it is.  Appendix A is a register of every substantive claim in the "
            "volume with its status and the means by which it is established - "
            "including, explicitly, the four claims that were withdrawn after "
            "a literature search found that they had already been published "
