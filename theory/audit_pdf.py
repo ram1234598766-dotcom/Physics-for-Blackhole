@@ -14,7 +14,7 @@ the page will actually look right:
   5. text-rise (super/subscripts) is always reset, and the graphics state is
      balanced (q/Q).
 
-Run:  python3 -m paper.audit_pdf [paper/partitionism.pdf]
+Run:  python3 -m theory.audit_pdf [theory/partitionism.pdf]
 """
 
 import re
