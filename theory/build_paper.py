@@ -86,7 +86,11 @@ def build(out_path):
 
            "**Appendix D**  References\n"
 
-           "**Appendix E**  Notation and conventions",
+           "**Appendix E**  Notation and conventions        "
+
+           "**Appendix F**  Formal statements of the refined conjectures\n"
+
+           "**Appendix G**  Native units and the saturation-speed constant",
 
            size=9, align='center', leading=14, space_after=16)
 
@@ -132,7 +136,7 @@ def build(out_path):
 
            "signature (Paper IV), and that it can be killed by experiment "
 
-           "(falsifiers F1-F5).", size=9.5, leading=13.5)
+           "(falsifiers F1-F13).", size=9.5, leading=13.5)
 
 
 
@@ -165,6 +169,8 @@ def build(out_path):
     content.appendix_e(d)
 
     content.appendix_f(d)
+
+    content.appendix_g(d)
 
 
 
