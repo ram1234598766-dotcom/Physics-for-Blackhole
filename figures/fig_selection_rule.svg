@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420">
+<rect width="700" height="420" fill="#0d1117"/>
+<line x1="70" y1="60" x2="660" y2="60" stroke="#30363d" stroke-width="1"/>
+<line x1="70" y1="40" x2="70" y2="60" stroke="#30363d" stroke-width="1"/>
+<rect x="70" y="40" width="295" height="20" fill="#238636" opacity="0.18"/>
+<rect x="365" y="40" width="295" height="20" fill="#d29922" opacity="0.18"/>
+<rect x="70" y="53" width="590" height="7" fill="#f85149" opacity="0.18"/>
+<line x1="365" y1="40" x2="365" y2="60" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="6,4"/>
+<line x1="70" y1="53" x2="660" y2="53" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="6,4"/>
+<text x="217" y="70" fill="#3fb950" font-size="14" font-weight="bold">sublimation</text>
+<text x="512" y="70" fill="#d29922" font-size="14" font-weight="bold">remnant</text>
+<text x="375" y="41" fill="#f85149" font-size="14" font-weight="bold">bounce</text>
+<text x="580" y="408" fill="#8b949e" font-size="12">delta A / Delta A</text>
+<text x="16" y="22" fill="#8b949e" font-size="12">collapse curvature kappa</text>
+</svg>

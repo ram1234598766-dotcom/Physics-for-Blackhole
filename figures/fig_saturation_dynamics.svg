@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420">
+<rect width="700" height="420" fill="#0d1117"/>
+<line x1="70" y1="60" x2="660" y2="60" stroke="#30363d" stroke-width="1"/>
+<line x1="70" y1="40" x2="70" y2="60" stroke="#30363d" stroke-width="1"/>
+<path d="M 70.00 40.00 L 94.58 40.83 L 119.17 41.67 L 143.75 42.50 L 168.33 43.33 L 192.92 44.17 L 217.50 45.00 L 242.08 45.83 L 266.67 46.67 L 291.25 47.50 L 315.83 48.33 L 340.42 49.17 L 365.00 50.00 L 389.58 50.83 L 414.17 51.67 L 438.75 52.50 L 463.33 53.33 L 487.92 54.17 L 512.50 55.00 L 537.08 55.83 L 561.67 56.67 L 586.25 57.50 L 610.83 58.33 L 635.42 59.17 L 660.00 60.00" fill="none" stroke="#58a6ff" stroke-width="2"/>
+<path d="M 70.00 60.00 L 94.58 59.17 L 119.17 58.33 L 143.75 57.50 L 168.33 56.67 L 192.92 55.83 L 217.50 55.00 L 242.08 54.17 L 266.67 53.33 L 291.25 52.50 L 315.83 51.67 L 340.42 50.83 L 365.00 50.00 L 389.58 50.83 L 414.17 51.67 L 438.75 52.50 L 463.33 53.33 L 487.92 54.17 L 512.50 55.00 L 537.08 55.83 L 561.67 56.67 L 586.25 57.50 L 610.83 58.33 L 635.42 59.17 L 660.00 60.00" fill="none" stroke="#3fb950" stroke-width="2"/>
+<path d="M 70.00 40.00 L 94.58 40.00 L 119.17 40.00 L 143.75 40.00 L 168.33 40.00 L 192.92 40.00 L 217.50 40.00 L 242.08 40.00 L 266.67 40.00 L 291.25 40.00 L 315.83 40.00 L 340.42 40.00 L 365.00 40.00 L 389.58 40.00 L 414.17 40.00 L 438.75 40.00 L 463.33 40.00 L 487.92 40.00 L 512.50 40.00 L 537.08 40.00 L 561.67 40.00 L 586.25 40.00 L 610.83 40.00 L 635.42 40.00 L 660.00 60.00" fill="none" stroke="#f0883e" stroke-width="1.5" stroke-dasharray="5,3"/>
+<text x="140" y="58" fill="#8b949e" font-size="12">I</text>
+<text x="276" y="58" fill="#8b949e" font-size="12">II</text>
+<text x="424" y="58" fill="#8b949e" font-size="12">III</text>
+<text x="553" y="58" fill="#8b949e" font-size="12">IV</text>
+<text x="630" y="58" fill="#8b949e" font-size="12">V</text>
+<text x="410" y="60" fill="#58a6ff" font-size="13">N(tau) remaining capacity</text>
+<text x="390" y="80" fill="#3fb950" font-size="13">S_O(tau) radiation entropy</text>
+<text x="440" y="100" fill="#f0883e" font-size="13">r(tau) payout rate</text>
+<text x="600" y="408" fill="#8b949e" font-size="12">substrate time tau</text>
+</svg>
