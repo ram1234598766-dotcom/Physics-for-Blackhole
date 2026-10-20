@@ -1,4 +1,4 @@
-# Partitionism - simulation results
+# Physics-for-Blackhole - simulation results
 
 Generated 2026-10-20 by `python3 -m simulations.run_all`.
 
@@ -29,7 +29,7 @@ TEST 1 - the evaporation ledger
 ========================================================================
 random-unitary (Householder) ensemble, 3 trials per size
 
-A. PURE MICROSTATE SENDER  (Partitionism: ledger respected)
+A. PURE MICROSTATE SENDER  (Physics-for-Blackhole: ledger respected)
 ------------------------------------------------------------------------
 
   simulated S(rad)/ln2 (average over trials) vs. Page's formula
@@ -42,7 +42,7 @@ A. PURE MICROSTATE SENDER  (Partitionism: ledger respected)
   Page   8 | -0.00  0.99  1.95  2.82  3.28  2.82  1.95  0.99 -0.00
   Page  10 | -0.00  1.00  1.99  2.95  3.82  4.28  3.82  2.95  1.99  1.00 -0.00
 
-B. THERMAL SENDER WITH PURIFIER  (Partitionism: ledger blind)
+B. THERMAL SENDER WITH PURIFIER  (Physics-for-Blackhole: ledger blind)
 ------------------------------------------------------------------------
   n0=6 (register 12 qubits, purifier traced out)
    m | S(rad)/ln2 | I(R:Rad)/ln2 | I(R:Rem)/ln2 | sum/ln2
