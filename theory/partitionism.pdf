@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Count 22 /Kids [9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R] >>
+<< /Type /Pages /Count 23 /Kids [9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R] >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
@@ -28,7 +28,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.2760 841.8900] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R /F6 8 0 R >> /ProcSet [/PDF /Text] >> /Contents 10 0 R >>
 endobj
 10 0 obj
-<< /Length 14619 >>
+<< /Length 15908 >>
 stream
 BT
 /F3 25.00 Tf
@@ -259,400 +259,456 @@ BT
 ET
 BT
 /F3 9.00 Tf
-1 0 0 1 219.60 508.89 Tm (Appendix ) Tj
+1 0 0 1 93.55 508.89 Tm (Appendix ) Tj
 /F3 9.00 Tf
-1 0 0 1 263.11 508.89 Tm (E) Tj
+1 0 0 1 137.06 508.89 Tm (E) Tj
 /F1 9.00 Tf
-1 0 0 1 269.11 508.89 Tm ( ) Tj
+1 0 0 1 143.06 508.89 Tm ( ) Tj
 /F1 9.00 Tf
-1 0 0 1 271.61 508.89 Tm ( ) Tj
+1 0 0 1 145.56 508.89 Tm ( ) Tj
 /F1 9.00 Tf
-1 0 0 1 274.12 508.89 Tm (Notation ) Tj
+1 0 0 1 148.07 508.89 Tm (Notation ) Tj
 /F1 9.00 Tf
-1 0 0 1 310.13 508.89 Tm (and ) Tj
+1 0 0 1 184.09 508.89 Tm (and ) Tj
 /F1 9.00 Tf
-1 0 0 1 327.65 508.89 Tm (conventions) Tj
-ET
-62 477.89 m 533.276 477.89 l 0.6 w 0.75 0.75 0.75 RG S
-BT
-/F1 9.50 Tf
-1 0 0 1 157.98 458.39 Tm (Version ) Tj
-/F1 9.50 Tf
-1 0 0 1 192.82 458.39 Tm (2.0 ) Tj
-/F1 9.50 Tf
-1 0 0 1 208.67 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 211.31 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 213.95 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 216.59 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 219.23 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 221.88 458.39 Tm (9 ) Tj
-/F1 9.50 Tf
-1 0 0 1 229.80 458.39 Tm (October ) Tj
-/F1 9.50 Tf
-1 0 0 1 266.23 458.39 Tm (2026 ) Tj
-/F1 9.50 Tf
-1 0 0 1 290.00 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 292.64 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 295.28 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 297.92 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 300.56 458.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 303.21 458.39 Tm (speculative ) Tj
-/F1 9.50 Tf
-1 0 0 1 353.37 458.39 Tm (research ) Tj
-/F1 9.50 Tf
-1 0 0 1 392.96 458.39 Tm (framework) Tj
+1 0 0 1 201.60 508.89 Tm (conventions ) Tj
+/F1 9.00 Tf
+1 0 0 1 252.13 508.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 254.63 508.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 257.13 508.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 259.63 508.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 262.13 508.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 264.64 508.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 267.14 508.89 Tm ( ) Tj
+/F3 9.00 Tf
+1 0 0 1 269.64 508.89 Tm (Appendix ) Tj
+/F3 9.00 Tf
+1 0 0 1 313.15 508.89 Tm (F) Tj
+/F1 9.00 Tf
+1 0 0 1 318.64 508.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 321.15 508.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 323.65 508.89 Tm (Formal ) Tj
+/F1 9.00 Tf
+1 0 0 1 354.15 508.89 Tm (statements ) Tj
+/F1 9.00 Tf
+1 0 0 1 400.67 508.89 Tm (of ) Tj
+/F1 9.00 Tf
+1 0 0 1 410.68 508.89 Tm (the ) Tj
+/F1 9.00 Tf
+1 0 0 1 425.69 508.89 Tm (refined ) Tj
+/F1 9.00 Tf
+1 0 0 1 455.71 508.89 Tm (conjectures) Tj
 ET
 BT
-/F3 9.50 Tf
-1 0 0 1 62.00 426.39 Tm (Epistemic ) Tj
-/F3 9.50 Tf
-1 0 0 1 109.52 426.39 Tm (notice.) Tj
-/F1 9.50 Tf
-1 0 0 1 140.14 426.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 142.78 426.39 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 145.42 426.39 Tm (This ) Tj
-/F1 9.50 Tf
-1 0 0 1 166.01 426.39 Tm (volume ) Tj
-/F1 9.50 Tf
-1 0 0 1 199.27 426.39 Tm (contains ) Tj
-/F1 9.50 Tf
-1 0 0 1 237.28 426.39 Tm (four ) Tj
-/F1 9.50 Tf
-1 0 0 1 256.29 426.39 Tm (kinds ) Tj
-/F1 9.50 Tf
-1 0 0 1 281.11 426.39 Tm (of ) Tj
-/F1 9.50 Tf
-1 0 0 1 291.67 426.39 Tm (statement ) Tj
-/F1 9.50 Tf
-1 0 0 1 336.03 426.39 Tm (and ) Tj
-/F1 9.50 Tf
-1 0 0 1 354.51 426.39 Tm (they ) Tj
-/F1 9.50 Tf
-1 0 0 1 375.11 426.39 Tm (are ) Tj
-/F1 9.50 Tf
-1 0 0 1 391.48 426.39 Tm (labelled ) Tj
-/F1 9.50 Tf
-1 0 0 1 426.86 426.39 Tm (wherever ) Tj
-/F1 9.50 Tf
-1 0 0 1 468.56 426.39 Tm (they ) Tj
-/F1 9.50 Tf
-1 0 0 1 489.16 426.39 Tm (appear: ) Tj
+/F3 9.00 Tf
+1 0 0 1 177.08 494.89 Tm (Appendix ) Tj
+/F3 9.00 Tf
+1 0 0 1 220.59 494.89 Tm (G) Tj
+/F1 9.00 Tf
+1 0 0 1 227.59 494.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 230.09 494.89 Tm ( ) Tj
+/F1 9.00 Tf
+1 0 0 1 232.59 494.89 Tm (Native ) Tj
+/F1 9.00 Tf
+1 0 0 1 260.60 494.89 Tm (units ) Tj
+/F1 9.00 Tf
+1 0 0 1 282.11 494.89 Tm (and ) Tj
+/F1 9.00 Tf
+1 0 0 1 299.63 494.89 Tm (the ) Tj
+/F1 9.00 Tf
+1 0 0 1 314.64 494.89 Tm (saturation-speed ) Tj
+/F1 9.00 Tf
+1 0 0 1 384.17 494.89 Tm (constant) Tj
 ET
-BT
-/F3 9.50 Tf
-1 0 0 1 62.00 412.89 Tm (THEOREM) Tj
-/F1 9.50 Tf
-1 0 0 1 109.50 412.89 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 112.14 412.89 Tm (and ) Tj
-/F3 9.50 Tf
-1 0 0 1 130.63 412.89 Tm (LEMMA) Tj
-/F1 9.50 Tf
-1 0 0 1 165.46 412.89 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 168.10 412.89 Tm (\(proved ) Tj
-/F1 9.50 Tf
-1 0 0 1 202.94 412.89 Tm (in ) Tj
-/F1 9.50 Tf
-1 0 0 1 212.97 412.89 Tm (place, ) Tj
-/F1 9.50 Tf
-1 0 0 1 240.96 412.89 Tm (with ) Tj
-/F1 9.50 Tf
-1 0 0 1 260.49 412.89 Tm (the ) Tj
-/F1 9.50 Tf
-1 0 0 1 276.34 412.89 Tm (proof ) Tj
-/F1 9.50 Tf
-1 0 0 1 300.63 412.89 Tm (given\), ) Tj
-/F3 9.50 Tf
-1 0 0 1 331.78 412.89 Tm (ESTABLISHED) Tj
-/F1 9.50 Tf
-1 0 0 1 398.81 412.89 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 401.45 412.89 Tm (\(standard ) Tj
-/F1 9.50 Tf
-1 0 0 1 444.22 412.89 Tm (physics, ) Tj
-/F1 9.50 Tf
-1 0 0 1 481.18 412.89 Tm (cited ) Tj
-/F1 9.50 Tf
-1 0 0 1 503.88 412.89 Tm (in ) Tj
-ET
+62 463.89 m 533.276 463.89 l 0.6 w 0.75 0.75 0.75 RG S
 BT
 /F1 9.50 Tf
-1 0 0 1 62.00 399.39 Tm (Appendix ) Tj
+1 0 0 1 157.98 444.39 Tm (Version ) Tj
 /F1 9.50 Tf
-1 0 0 1 104.25 399.39 Tm (D\), ) Tj
-/F3 9.50 Tf
-1 0 0 1 119.55 399.39 Tm (CONJECTURE) Tj
+1 0 0 1 192.82 444.39 Tm (2.0 ) Tj
 /F1 9.50 Tf
-1 0 0 1 185.00 399.39 Tm ( ) Tj
+1 0 0 1 208.67 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 187.64 399.39 Tm (\(part ) Tj
+1 0 0 1 211.31 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 209.81 399.39 Tm (of ) Tj
+1 0 0 1 213.95 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 220.37 399.39 Tm (Physics-for-Blackhole; ) Tj
+1 0 0 1 216.59 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 316.98 399.39 Tm (not ) Tj
+1 0 0 1 219.23 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 332.83 399.39 Tm (proved, ) Tj
+1 0 0 1 221.88 444.39 Tm (9 ) Tj
 /F1 9.50 Tf
-1 0 0 1 367.15 399.39 Tm (and ) Tj
+1 0 0 1 229.80 444.39 Tm (October ) Tj
 /F1 9.50 Tf
-1 0 0 1 385.64 399.39 Tm (said ) Tj
+1 0 0 1 266.23 444.39 Tm (2026 ) Tj
 /F1 9.50 Tf
-1 0 0 1 405.70 399.39 Tm (so ) Tj
+1 0 0 1 290.00 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 418.37 399.39 Tm (in ) Tj
+1 0 0 1 292.64 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 428.41 399.39 Tm (the ) Tj
+1 0 0 1 295.28 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 444.25 399.39 Tm (text\), ) Tj
+1 0 0 1 297.92 444.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 468.01 399.39 Tm (and ) Tj
+1 0 0 1 300.56 444.39 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 303.21 444.39 Tm (speculative ) Tj
+/F1 9.50 Tf
+1 0 0 1 353.37 444.39 Tm (research ) Tj
+/F1 9.50 Tf
+1 0 0 1 392.96 444.39 Tm (framework) Tj
 ET
 BT
 /F3 9.50 Tf
-1 0 0 1 62.00 385.89 Tm (PREDICTION) Tj
-/F1 9.50 Tf
-1 0 0 1 120.59 385.89 Tm ( ) Tj
-/F1 9.50 Tf
-1 0 0 1 123.23 385.89 Tm (or ) Tj
+1 0 0 1 62.00 412.39 Tm (Epistemic ) Tj
 /F3 9.50 Tf
-1 0 0 1 134.31 385.89 Tm (FALSIFIER) Tj
+1 0 0 1 109.52 412.39 Tm (notice.) Tj
 /F1 9.50 Tf
-1 0 0 1 183.40 385.89 Tm ( ) Tj
+1 0 0 1 140.14 412.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 186.04 385.89 Tm (\(a ) Tj
+1 0 0 1 142.78 412.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 197.13 385.89 Tm (commitment ) Tj
+1 0 0 1 145.42 412.39 Tm (This ) Tj
 /F1 9.50 Tf
-1 0 0 1 251.50 385.89 Tm (that ) Tj
+1 0 0 1 166.01 412.39 Tm (volume ) Tj
 /F1 9.50 Tf
-1 0 0 1 269.98 385.89 Tm (can ) Tj
+1 0 0 1 199.27 412.39 Tm (contains ) Tj
 /F1 9.50 Tf
-1 0 0 1 287.94 385.89 Tm (fail\). ) Tj
+1 0 0 1 237.28 412.39 Tm (four ) Tj
 /F1 9.50 Tf
-1 0 0 1 308.52 385.89 Tm ( ) Tj
+1 0 0 1 256.29 412.39 Tm (kinds ) Tj
 /F1 9.50 Tf
-1 0 0 1 311.17 385.89 Tm (Nothing ) Tj
+1 0 0 1 281.11 412.39 Tm (of ) Tj
 /F1 9.50 Tf
-1 0 0 1 346.54 385.89 Tm (is ) Tj
+1 0 0 1 291.67 412.39 Tm (statement ) Tj
 /F1 9.50 Tf
-1 0 0 1 356.04 385.89 Tm (presented ) Tj
+1 0 0 1 336.03 412.39 Tm (and ) Tj
 /F1 9.50 Tf
-1 0 0 1 400.93 385.89 Tm (as ) Tj
+1 0 0 1 354.51 412.39 Tm (they ) Tj
 /F1 9.50 Tf
-1 0 0 1 413.60 385.89 Tm (established ) Tj
+1 0 0 1 375.11 412.39 Tm (are ) Tj
 /F1 9.50 Tf
-1 0 0 1 464.30 385.89 Tm (physics ) Tj
+1 0 0 1 391.48 412.39 Tm (labelled ) Tj
 /F1 9.50 Tf
-1 0 0 1 498.61 385.89 Tm (unless ) Tj
+1 0 0 1 426.86 412.39 Tm (wherever ) Tj
+/F1 9.50 Tf
+1 0 0 1 468.56 412.39 Tm (they ) Tj
+/F1 9.50 Tf
+1 0 0 1 489.16 412.39 Tm (appear: ) Tj
+ET
+BT
+/F3 9.50 Tf
+1 0 0 1 62.00 398.89 Tm (THEOREM) Tj
+/F1 9.50 Tf
+1 0 0 1 109.50 398.89 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 112.14 398.89 Tm (and ) Tj
+/F3 9.50 Tf
+1 0 0 1 130.63 398.89 Tm (LEMMA) Tj
+/F1 9.50 Tf
+1 0 0 1 165.46 398.89 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 168.10 398.89 Tm (\(proved ) Tj
+/F1 9.50 Tf
+1 0 0 1 202.94 398.89 Tm (in ) Tj
+/F1 9.50 Tf
+1 0 0 1 212.97 398.89 Tm (place, ) Tj
+/F1 9.50 Tf
+1 0 0 1 240.96 398.89 Tm (with ) Tj
+/F1 9.50 Tf
+1 0 0 1 260.49 398.89 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 276.34 398.89 Tm (proof ) Tj
+/F1 9.50 Tf
+1 0 0 1 300.63 398.89 Tm (given\), ) Tj
+/F3 9.50 Tf
+1 0 0 1 331.78 398.89 Tm (ESTABLISHED) Tj
+/F1 9.50 Tf
+1 0 0 1 398.81 398.89 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 401.45 398.89 Tm (\(standard ) Tj
+/F1 9.50 Tf
+1 0 0 1 444.22 398.89 Tm (physics, ) Tj
+/F1 9.50 Tf
+1 0 0 1 481.18 398.89 Tm (cited ) Tj
+/F1 9.50 Tf
+1 0 0 1 503.88 398.89 Tm (in ) Tj
 ET
 BT
 /F1 9.50 Tf
-1 0 0 1 62.00 372.39 Tm (it ) Tj
+1 0 0 1 62.00 385.39 Tm (Appendix ) Tj
 /F1 9.50 Tf
-1 0 0 1 69.39 372.39 Tm (is. ) Tj
+1 0 0 1 104.25 385.39 Tm (D\), ) Tj
+/F3 9.50 Tf
+1 0 0 1 119.55 385.39 Tm (CONJECTURE) Tj
 /F1 9.50 Tf
-1 0 0 1 81.53 372.39 Tm ( ) Tj
+1 0 0 1 185.00 385.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 84.17 372.39 Tm (Appendix ) Tj
+1 0 0 1 187.64 385.39 Tm (\(part ) Tj
 /F1 9.50 Tf
-1 0 0 1 126.42 372.39 Tm (A ) Tj
+1 0 0 1 209.81 385.39 Tm (of ) Tj
 /F1 9.50 Tf
-1 0 0 1 135.40 372.39 Tm (is ) Tj
+1 0 0 1 220.37 385.39 Tm (Physics-for-Blackhole; ) Tj
 /F1 9.50 Tf
-1 0 0 1 144.90 372.39 Tm (a ) Tj
+1 0 0 1 316.98 385.39 Tm (not ) Tj
 /F1 9.50 Tf
-1 0 0 1 152.82 372.39 Tm (register ) Tj
+1 0 0 1 332.83 385.39 Tm (proved, ) Tj
 /F1 9.50 Tf
-1 0 0 1 187.13 372.39 Tm (of ) Tj
+1 0 0 1 367.15 385.39 Tm (and ) Tj
 /F1 9.50 Tf
-1 0 0 1 197.70 372.39 Tm (every ) Tj
+1 0 0 1 385.64 385.39 Tm (said ) Tj
 /F1 9.50 Tf
-1 0 0 1 223.57 372.39 Tm (substantive ) Tj
+1 0 0 1 405.70 385.39 Tm (so ) Tj
 /F1 9.50 Tf
-1 0 0 1 274.26 372.39 Tm (claim ) Tj
+1 0 0 1 418.37 385.39 Tm (in ) Tj
 /F1 9.50 Tf
-1 0 0 1 299.06 372.39 Tm (in ) Tj
+1 0 0 1 428.41 385.39 Tm (the ) Tj
 /F1 9.50 Tf
-1 0 0 1 309.10 372.39 Tm (the ) Tj
+1 0 0 1 444.25 385.39 Tm (text\), ) Tj
 /F1 9.50 Tf
-1 0 0 1 324.94 372.39 Tm (volume ) Tj
+1 0 0 1 468.01 385.39 Tm (and ) Tj
+ET
+BT
+/F3 9.50 Tf
+1 0 0 1 62.00 371.89 Tm (PREDICTION) Tj
 /F1 9.50 Tf
-1 0 0 1 358.20 372.39 Tm (with ) Tj
+1 0 0 1 120.59 371.89 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 377.73 372.39 Tm (its ) Tj
+1 0 0 1 123.23 371.89 Tm (or ) Tj
+/F3 9.50 Tf
+1 0 0 1 134.31 371.89 Tm (FALSIFIER) Tj
 /F1 9.50 Tf
-1 0 0 1 389.87 372.39 Tm (status ) Tj
+1 0 0 1 183.40 371.89 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 417.86 372.39 Tm (and ) Tj
+1 0 0 1 186.04 371.89 Tm (\(a ) Tj
 /F1 9.50 Tf
-1 0 0 1 436.35 372.39 Tm (the ) Tj
+1 0 0 1 197.13 371.89 Tm (commitment ) Tj
 /F1 9.50 Tf
-1 0 0 1 452.19 372.39 Tm (means ) Tj
+1 0 0 1 251.50 371.89 Tm (that ) Tj
 /F1 9.50 Tf
-1 0 0 1 483.34 372.39 Tm (by ) Tj
+1 0 0 1 269.98 371.89 Tm (can ) Tj
 /F1 9.50 Tf
-1 0 0 1 496.02 372.39 Tm (which ) Tj
+1 0 0 1 287.94 371.89 Tm (fail\). ) Tj
 /F1 9.50 Tf
-1 0 0 1 522.94 372.39 Tm (it ) Tj
+1 0 0 1 308.52 371.89 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 311.17 371.89 Tm (Nothing ) Tj
+/F1 9.50 Tf
+1 0 0 1 346.54 371.89 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 356.04 371.89 Tm (presented ) Tj
+/F1 9.50 Tf
+1 0 0 1 400.93 371.89 Tm (as ) Tj
+/F1 9.50 Tf
+1 0 0 1 413.60 371.89 Tm (established ) Tj
+/F1 9.50 Tf
+1 0 0 1 464.30 371.89 Tm (physics ) Tj
+/F1 9.50 Tf
+1 0 0 1 498.61 371.89 Tm (unless ) Tj
 ET
 BT
 /F1 9.50 Tf
-1 0 0 1 62.00 358.89 Tm (is ) Tj
+1 0 0 1 62.00 358.39 Tm (it ) Tj
 /F1 9.50 Tf
-1 0 0 1 71.50 358.89 Tm (established ) Tj
+1 0 0 1 69.39 358.39 Tm (is. ) Tj
 /F1 9.50 Tf
-1 0 0 1 122.19 358.89 Tm (- ) Tj
+1 0 0 1 81.53 358.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 128.00 358.89 Tm (including, ) Tj
+1 0 0 1 84.17 358.39 Tm (Appendix ) Tj
 /F1 9.50 Tf
-1 0 0 1 170.77 358.89 Tm (explicitly, ) Tj
+1 0 0 1 126.42 358.39 Tm (A ) Tj
 /F1 9.50 Tf
-1 0 0 1 211.94 358.89 Tm (the ) Tj
+1 0 0 1 135.40 358.39 Tm (is ) Tj
 /F1 9.50 Tf
-1 0 0 1 227.78 358.89 Tm (four ) Tj
+1 0 0 1 144.90 358.39 Tm (a ) Tj
 /F1 9.50 Tf
-1 0 0 1 246.79 358.89 Tm (claims ) Tj
+1 0 0 1 152.82 358.39 Tm (register ) Tj
 /F1 9.50 Tf
-1 0 0 1 276.35 358.89 Tm (that ) Tj
+1 0 0 1 187.13 358.39 Tm (of ) Tj
 /F1 9.50 Tf
-1 0 0 1 294.84 358.89 Tm (were ) Tj
+1 0 0 1 197.70 358.39 Tm (every ) Tj
 /F1 9.50 Tf
-1 0 0 1 318.06 358.89 Tm (withdrawn ) Tj
+1 0 0 1 223.57 358.39 Tm (substantive ) Tj
 /F1 9.50 Tf
-1 0 0 1 363.46 358.89 Tm (after ) Tj
+1 0 0 1 274.26 358.39 Tm (claim ) Tj
 /F1 9.50 Tf
-1 0 0 1 385.11 358.89 Tm (a ) Tj
+1 0 0 1 299.06 358.39 Tm (in ) Tj
 /F1 9.50 Tf
-1 0 0 1 393.04 358.89 Tm (literature ) Tj
+1 0 0 1 309.10 358.39 Tm (the ) Tj
 /F1 9.50 Tf
-1 0 0 1 432.63 358.89 Tm (search ) Tj
+1 0 0 1 324.94 358.39 Tm (volume ) Tj
 /F1 9.50 Tf
-1 0 0 1 463.78 358.89 Tm (found ) Tj
+1 0 0 1 358.20 358.39 Tm (with ) Tj
 /F1 9.50 Tf
-1 0 0 1 490.19 358.89 Tm (that ) Tj
+1 0 0 1 377.73 358.39 Tm (its ) Tj
 /F1 9.50 Tf
-1 0 0 1 508.68 358.89 Tm (they ) Tj
+1 0 0 1 389.87 358.39 Tm (status ) Tj
+/F1 9.50 Tf
+1 0 0 1 417.86 358.39 Tm (and ) Tj
+/F1 9.50 Tf
+1 0 0 1 436.35 358.39 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 452.19 358.39 Tm (means ) Tj
+/F1 9.50 Tf
+1 0 0 1 483.34 358.39 Tm (by ) Tj
+/F1 9.50 Tf
+1 0 0 1 496.02 358.39 Tm (which ) Tj
+/F1 9.50 Tf
+1 0 0 1 522.94 358.39 Tm (it ) Tj
 ET
 BT
 /F1 9.50 Tf
-1 0 0 1 62.00 345.39 Tm (had ) Tj
+1 0 0 1 62.00 344.89 Tm (is ) Tj
 /F1 9.50 Tf
-1 0 0 1 80.49 345.39 Tm (already ) Tj
+1 0 0 1 71.50 344.89 Tm (established ) Tj
 /F1 9.50 Tf
-1 0 0 1 114.28 345.39 Tm (been ) Tj
+1 0 0 1 122.19 344.89 Tm (- ) Tj
 /F1 9.50 Tf
-1 0 0 1 138.05 345.39 Tm (published ) Tj
+1 0 0 1 128.00 344.89 Tm (including, ) Tj
 /F1 9.50 Tf
-1 0 0 1 181.35 345.39 Tm (\(items ) Tj
+1 0 0 1 170.77 344.89 Tm (explicitly, ) Tj
 /F1 9.50 Tf
-1 0 0 1 209.85 345.39 Tm (A18, ) Tj
+1 0 0 1 211.94 344.89 Tm (the ) Tj
 /F1 9.50 Tf
-1 0 0 1 232.03 345.39 Tm (A28, ) Tj
+1 0 0 1 227.78 344.89 Tm (four ) Tj
 /F1 9.50 Tf
-1 0 0 1 254.21 345.39 Tm (A29 ) Tj
+1 0 0 1 246.79 344.89 Tm (claims ) Tj
 /F1 9.50 Tf
-1 0 0 1 273.75 345.39 Tm (and ) Tj
+1 0 0 1 276.35 344.89 Tm (that ) Tj
 /F1 9.50 Tf
-1 0 0 1 292.24 345.39 Tm (A14\). ) Tj
+1 0 0 1 294.84 344.89 Tm (were ) Tj
 /F1 9.50 Tf
-1 0 0 1 317.59 345.39 Tm ( ) Tj
+1 0 0 1 318.06 344.89 Tm (withdrawn ) Tj
 /F1 9.50 Tf
-1 0 0 1 320.23 345.39 Tm (The ) Tj
+1 0 0 1 363.46 344.89 Tm (after ) Tj
 /F1 9.50 Tf
-1 0 0 1 339.24 345.39 Tm (framework ) Tj
+1 0 0 1 385.11 344.89 Tm (a ) Tj
 /F1 9.50 Tf
-1 0 0 1 386.22 345.39 Tm (is ) Tj
+1 0 0 1 393.04 344.89 Tm (literature ) Tj
 /F1 9.50 Tf
-1 0 0 1 395.72 345.39 Tm (speculative. ) Tj
+1 0 0 1 432.63 344.89 Tm (search ) Tj
 /F1 9.50 Tf
-1 0 0 1 448.52 345.39 Tm ( ) Tj
+1 0 0 1 463.78 344.89 Tm (found ) Tj
 /F1 9.50 Tf
-1 0 0 1 451.16 345.39 Tm (What ) Tj
+1 0 0 1 490.19 344.89 Tm (that ) Tj
+/F1 9.50 Tf
+1 0 0 1 508.68 344.89 Tm (they ) Tj
 ET
 BT
 /F1 9.50 Tf
-1 0 0 1 62.00 331.89 Tm (distinguishes ) Tj
+1 0 0 1 62.00 331.39 Tm (had ) Tj
 /F1 9.50 Tf
-1 0 0 1 119.55 331.89 Tm (it ) Tj
+1 0 0 1 80.49 331.39 Tm (already ) Tj
 /F1 9.50 Tf
-1 0 0 1 126.94 331.89 Tm (from ) Tj
+1 0 0 1 114.28 331.39 Tm (been ) Tj
 /F1 9.50 Tf
-1 0 0 1 148.58 331.89 Tm (speculation ) Tj
+1 0 0 1 138.05 331.39 Tm (published ) Tj
 /F1 9.50 Tf
-1 0 0 1 199.28 331.89 Tm (without ) Tj
+1 0 0 1 181.35 331.39 Tm (\(items ) Tj
 /F1 9.50 Tf
-1 0 0 1 232.01 331.89 Tm (content ) Tj
+1 0 0 1 209.85 331.39 Tm (A18, ) Tj
 /F1 9.50 Tf
-1 0 0 1 265.81 331.89 Tm (is ) Tj
+1 0 0 1 232.03 331.39 Tm (A28, ) Tj
 /F1 9.50 Tf
-1 0 0 1 275.31 331.89 Tm (that ) Tj
+1 0 0 1 254.21 331.39 Tm (A29 ) Tj
 /F1 9.50 Tf
-1 0 0 1 293.80 331.89 Tm (its ) Tj
+1 0 0 1 273.75 331.39 Tm (and ) Tj
 /F1 9.50 Tf
-1 0 0 1 305.94 331.89 Tm (central ) Tj
+1 0 0 1 292.24 331.39 Tm (A14\). ) Tj
 /F1 9.50 Tf
-1 0 0 1 337.09 331.89 Tm (mechanism ) Tj
+1 0 0 1 317.59 331.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 388.30 331.89 Tm (is ) Tj
+1 0 0 1 320.23 331.39 Tm (The ) Tj
 /F1 9.50 Tf
-1 0 0 1 397.80 331.89 Tm (now ) Tj
+1 0 0 1 339.24 331.39 Tm (framework ) Tj
 /F1 9.50 Tf
-1 0 0 1 417.86 331.89 Tm (a ) Tj
+1 0 0 1 386.22 331.39 Tm (is ) Tj
 /F1 9.50 Tf
-1 0 0 1 425.78 331.89 Tm (theorem ) Tj
+1 0 0 1 395.72 331.39 Tm (speculative. ) Tj
 /F1 9.50 Tf
-1 0 0 1 463.27 331.89 Tm (\(Paper ) Tj
+1 0 0 1 448.52 331.39 Tm ( ) Tj
 /F1 9.50 Tf
-1 0 0 1 494.42 331.89 Tm (II\) ) Tj
-/F1 9.50 Tf
-1 0 0 1 505.51 331.89 Tm (and ) Tj
-/F1 9.50 Tf
-1 0 0 1 523.99 331.89 Tm (a ) Tj
+1 0 0 1 451.16 331.39 Tm (What ) Tj
 ET
 BT
 /F1 9.50 Tf
-1 0 0 1 62.00 318.39 Tm (computed ) Tj
+1 0 0 1 62.00 317.89 Tm (distinguishes ) Tj
 /F1 9.50 Tf
-1 0 0 1 106.36 318.39 Tm (signature ) Tj
+1 0 0 1 119.55 317.89 Tm (it ) Tj
 /F1 9.50 Tf
-1 0 0 1 148.07 318.39 Tm (\(Paper ) Tj
+1 0 0 1 126.94 317.89 Tm (from ) Tj
 /F1 9.50 Tf
-1 0 0 1 179.22 318.39 Tm (IV\), ) Tj
+1 0 0 1 148.58 317.89 Tm (speculation ) Tj
 /F1 9.50 Tf
-1 0 0 1 196.64 318.39 Tm (and ) Tj
+1 0 0 1 199.28 317.89 Tm (without ) Tj
 /F1 9.50 Tf
-1 0 0 1 215.13 318.39 Tm (that ) Tj
+1 0 0 1 232.01 317.89 Tm (content ) Tj
 /F1 9.50 Tf
-1 0 0 1 233.62 318.39 Tm (it ) Tj
+1 0 0 1 265.81 317.89 Tm (is ) Tj
 /F1 9.50 Tf
-1 0 0 1 241.01 318.39 Tm (can ) Tj
+1 0 0 1 275.31 317.89 Tm (that ) Tj
 /F1 9.50 Tf
-1 0 0 1 258.96 318.39 Tm (be ) Tj
+1 0 0 1 293.80 317.89 Tm (its ) Tj
 /F1 9.50 Tf
-1 0 0 1 272.17 318.39 Tm (killed ) Tj
+1 0 0 1 305.94 317.89 Tm (central ) Tj
 /F1 9.50 Tf
-1 0 0 1 296.45 318.39 Tm (by ) Tj
+1 0 0 1 337.09 317.89 Tm (mechanism ) Tj
 /F1 9.50 Tf
-1 0 0 1 309.12 318.39 Tm (experiment ) Tj
+1 0 0 1 388.30 317.89 Tm (is ) Tj
 /F1 9.50 Tf
-1 0 0 1 358.75 318.39 Tm (\(falsifiers ) Tj
+1 0 0 1 397.80 317.89 Tm (now ) Tj
 /F1 9.50 Tf
-1 0 0 1 399.39 318.39 Tm (F1-F5\).) Tj
+1 0 0 1 417.86 317.89 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 425.78 317.89 Tm (theorem ) Tj
+/F1 9.50 Tf
+1 0 0 1 463.27 317.89 Tm (\(Paper ) Tj
+/F1 9.50 Tf
+1 0 0 1 494.42 317.89 Tm (II\) ) Tj
+/F1 9.50 Tf
+1 0 0 1 505.51 317.89 Tm (and ) Tj
+/F1 9.50 Tf
+1 0 0 1 523.99 317.89 Tm (a ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 304.39 Tm (computed ) Tj
+/F1 9.50 Tf
+1 0 0 1 106.36 304.39 Tm (signature ) Tj
+/F1 9.50 Tf
+1 0 0 1 148.07 304.39 Tm (\(Paper ) Tj
+/F1 9.50 Tf
+1 0 0 1 179.22 304.39 Tm (IV\), ) Tj
+/F1 9.50 Tf
+1 0 0 1 196.64 304.39 Tm (and ) Tj
+/F1 9.50 Tf
+1 0 0 1 215.13 304.39 Tm (that ) Tj
+/F1 9.50 Tf
+1 0 0 1 233.62 304.39 Tm (it ) Tj
+/F1 9.50 Tf
+1 0 0 1 241.01 304.39 Tm (can ) Tj
+/F1 9.50 Tf
+1 0 0 1 258.96 304.39 Tm (be ) Tj
+/F1 9.50 Tf
+1 0 0 1 272.17 304.39 Tm (killed ) Tj
+/F1 9.50 Tf
+1 0 0 1 296.45 304.39 Tm (by ) Tj
+/F1 9.50 Tf
+1 0 0 1 309.12 304.39 Tm (experiment ) Tj
+/F1 9.50 Tf
+1 0 0 1 358.75 304.39 Tm (\(falsifiers ) Tj
+/F1 9.50 Tf
+1 0 0 1 399.39 304.39 Tm (F1-F13\).) Tj
 ET
 0 0 0 rg
 62 42 m 533.276 42 l 0.6 w S
@@ -19826,7 +19882,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.2760 841.8900] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R /F6 8 0 R >> /ProcSet [/PDF /Text] >> /Contents 52 0 R >>
 endobj
 52 0 obj
-<< /Length 20807 >>
+<< /Length 21121 >>
 stream
 62 750.89 m 533.276 750.89 l 0.9 w S
 BT
@@ -20715,7 +20771,19 @@ BT
 /F1 9.50 Tf
 1 0 0 1 104.78 359.39 Tm (full ) Tj
 /F1 9.50 Tf
-1 0 0 1 119.56 359.39 Tm (statements.) Tj
+1 0 0 1 119.56 359.39 Tm (statements, ) Tj
+/F1 9.50 Tf
+1 0 0 1 171.31 359.39 Tm (including ) Tj
+/F1 9.50 Tf
+1 0 0 1 211.44 359.39 Tm (F13, ) Tj
+/F1 9.50 Tf
+1 0 0 1 233.09 359.39 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 248.93 359.39 Tm (saturation-speed ) Tj
+/F1 9.50 Tf
+1 0 0 1 322.33 359.39 Tm (constant ) Tj
+/F1 9.50 Tf
+1 0 0 1 360.88 359.39 Tm (falsifier.) Tj
 ET
 0 0 0 rg
 62 42 m 533.276 42 l 0.6 w S
@@ -20731,66 +20799,1054 @@ ET
 endstream
 endobj
 53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.2760 841.8900] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R /F6 8 0 R >> /ProcSet [/PDF /Text] >> /Contents 54 0 R >>
+endobj
+54 0 obj
+<< /Length 22642 >>
+stream
+62 750.89 m 533.276 750.89 l 0.9 w S
+BT
+/F3 19.00 Tf
+1 0 0 1 62.00 748.89 Tm (Appendix G.  Native units and the saturation-speed constant) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 731.39 Tm (This ) Tj
+/F1 9.50 Tf
+1 0 0 1 82.59 731.39 Tm (appendix ) Tj
+/F1 9.50 Tf
+1 0 0 1 123.78 731.39 Tm (defines ) Tj
+/F1 9.50 Tf
+1 0 0 1 157.05 731.39 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 164.97 731.39 Tm (unit ) Tj
+/F1 9.50 Tf
+1 0 0 1 182.93 731.39 Tm (system ) Tj
+/F1 9.50 Tf
+1 0 0 1 215.65 731.39 Tm (native ) Tj
+/F1 9.50 Tf
+1 0 0 1 243.64 731.39 Tm (to ) Tj
+/F1 9.50 Tf
+1 0 0 1 254.20 731.39 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 270.05 731.39 Tm (substrate, ) Tj
+/F1 9.50 Tf
+1 0 0 1 314.41 731.39 Tm (derived ) Tj
+/F1 9.50 Tf
+1 0 0 1 348.20 731.39 Tm (from ) Tj
+/F1 9.50 Tf
+1 0 0 1 369.84 731.39 Tm (postulates ) Tj
+/F1 9.50 Tf
+1 0 0 1 415.78 731.39 Tm (P1, ) Tj
+/F1 9.50 Tf
+1 0 0 1 432.68 731.39 Tm (P3 ) Tj
+/F1 9.50 Tf
+1 0 0 1 446.94 731.39 Tm (and ) Tj
+/F1 9.50 Tf
+1 0 0 1 465.43 731.39 Tm (P5 ) Tj
+/F1 9.50 Tf
+1 0 0 1 479.69 731.39 Tm (alone. ) Tj
+/F1 9.50 Tf
+1 0 0 1 508.21 731.39 Tm ( ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 718.19 Tm (Every ) Tj
+/F1 9.50 Tf
+1 0 0 1 88.92 718.19 Tm (quantity ) Tj
+/F1 9.50 Tf
+1 0 0 1 124.83 718.19 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 134.33 718.19 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 142.26 718.19 Tm (DEFINED ) Tj
+/F1 9.50 Tf
+1 0 0 1 186.59 718.19 Tm (parameter ) Tj
+/F1 9.50 Tf
+1 0 0 1 232.53 718.19 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 243.09 718.19 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 258.94 718.19 Tm (framework; ) Tj
+/F1 9.50 Tf
+1 0 0 1 308.55 718.19 Tm (none ) Tj
+/F1 9.50 Tf
+1 0 0 1 332.32 718.19 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 341.82 718.19 Tm (claimed ) Tj
+/F1 9.50 Tf
+1 0 0 1 377.19 718.19 Tm (to ) Tj
+/F1 9.50 Tf
+1 0 0 1 387.75 718.19 Tm (be ) Tj
+/F1 9.50 Tf
+1 0 0 1 400.96 718.19 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 408.88 718.19 Tm (new ) Tj
+/F1 9.50 Tf
+1 0 0 1 428.95 718.19 Tm (constant ) Tj
+/F1 9.50 Tf
+1 0 0 1 467.50 718.19 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 478.06 718.19 Tm (nature. ) Tj
+/F1 9.50 Tf
+1 0 0 1 510.28 718.19 Tm ( ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 704.99 Tm (Where ) Tj
+/F1 9.50 Tf
+1 0 0 1 92.62 704.99 Tm (Planck ) Tj
+/F1 9.50 Tf
+1 0 0 1 123.77 704.99 Tm (units ) Tj
+/F1 9.50 Tf
+1 0 0 1 146.47 704.99 Tm (are ) Tj
+/F1 9.50 Tf
+1 0 0 1 162.84 704.99 Tm (used ) Tj
+/F1 9.50 Tf
+1 0 0 1 186.08 704.99 Tm (they ) Tj
+/F1 9.50 Tf
+1 0 0 1 206.68 704.99 Tm (are ) Tj
+/F1 9.50 Tf
+1 0 0 1 223.04 704.99 Tm (standard ) Tj
+/F1 9.50 Tf
+1 0 0 1 262.65 704.99 Tm (physics.) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 685.79 Tm (G.1 ) Tj
+/F1 9.50 Tf
+1 0 0 1 79.95 685.79 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 82.60 685.79 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 101.61 685.79 Tm (fundamental ) Tj
+/F1 9.50 Tf
+1 0 0 1 156.53 685.79 Tm (quantum. ) Tj
+/F1 9.50 Tf
+1 0 0 1 198.77 685.79 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 201.41 685.79 Tm (CONJECTURE ) Tj
+/F1 9.50 Tf
+1 0 0 1 268.97 685.79 Tm (G.1 ) Tj
+/F1 9.50 Tf
+1 0 0 1 286.92 685.79 Tm (\(the ) Tj
+/F1 9.50 Tf
+1 0 0 1 305.93 685.79 Tm (area ) Tj
+/F1 9.50 Tf
+1 0 0 1 327.58 685.79 Tm (quantum\). ) Tj
+/F1 9.50 Tf
+1 0 0 1 372.99 685.79 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 375.63 685.79 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 394.64 685.79 Tm (substrate ) Tj
+/F1 9.50 Tf
+1 0 0 1 436.36 685.79 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 445.86 685.79 Tm (countable ) Tj
+/F1 9.50 Tf
+1 0 0 1 489.69 685.79 Tm (\(P1\) ) Tj
+/F1 9.50 Tf
+1 0 0 1 510.28 685.79 Tm (and ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 672.59 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 69.92 672.59 Tm (cut ) Tj
+/F1 9.50 Tf
+1 0 0 1 85.24 672.59 Tm (saturates ) Tj
+/F1 9.50 Tf
+1 0 0 1 126.95 672.59 Tm (\(P3\), ) Tj
+/F1 9.50 Tf
+1 0 0 1 150.18 672.59 Tm (so ) Tj
+/F1 9.50 Tf
+1 0 0 1 162.85 672.59 Tm (there ) Tj
+/F1 9.50 Tf
+1 0 0 1 187.14 672.59 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 196.64 672.59 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 204.57 672.59 Tm (smallest ) Tj
+/F1 9.50 Tf
+1 0 0 1 242.04 672.59 Tm (distinguishable ) Tj
+/F1 9.50 Tf
+1 0 0 1 307.52 672.59 Tm (area: ) Tj
+/F1 9.50 Tf
+1 0 0 1 331.81 672.59 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 334.45 672.59 Tm (a0 ) Tj
+/F1 9.50 Tf
+1 0 0 1 347.66 672.59 Tm (= ) Tj
+/F1 9.50 Tf
+1 0 0 1 355.84 672.59 Tm (4 ) Tj
+/F1 9.50 Tf
+1 0 0 1 363.77 672.59 Tm (ln ) Tj
+/F1 9.50 Tf
+1 0 0 1 373.80 672.59 Tm (2 ) Tj
+/F1 9.50 Tf
+1 0 0 1 381.72 672.59 Tm (ell_P^2, ) Tj
+/F1 9.50 Tf
+1 0 0 1 417.86 672.59 Tm (where ) Tj
+/F1 9.50 Tf
+1 0 0 1 446.37 672.59 Tm (ell_P ) Tj
+/F1 9.50 Tf
+1 0 0 1 470.13 672.59 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 479.63 672.59 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 495.48 672.59 Tm (Planck ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 659.39 Tm (length. ) Tj
+/F1 9.50 Tf
+1 0 0 1 93.16 659.39 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 95.80 659.39 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 114.81 659.39 Tm (number ) Tj
+/F1 9.50 Tf
+1 0 0 1 149.66 659.39 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 160.22 659.39 Tm (area ) Tj
+/F1 9.50 Tf
+1 0 0 1 181.87 659.39 Tm (quanta ) Tj
+/F1 9.50 Tf
+1 0 0 1 213.56 659.39 Tm (for ) Tj
+/F1 9.50 Tf
+1 0 0 1 227.29 659.39 Tm (area ) Tj
+/F1 9.50 Tf
+1 0 0 1 248.94 659.39 Tm (A ) Tj
+/F1 9.50 Tf
+1 0 0 1 257.92 659.39 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 267.42 659.39 Tm (N\(A\) ) Tj
+/F1 9.50 Tf
+1 0 0 1 289.58 659.39 Tm (= ) Tj
+/F1 9.50 Tf
+1 0 0 1 297.77 659.39 Tm (A/a0, ) Tj
+/F1 9.50 Tf
+1 0 0 1 322.59 659.39 Tm (which ) Tj
+/F1 9.50 Tf
+1 0 0 1 349.52 659.39 Tm (equals ) Tj
+/F1 9.50 Tf
+1 0 0 1 380.15 659.39 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 395.99 659.39 Tm (Bekenstein-Hawking ) Tj
+/F1 9.50 Tf
+1 0 0 1 485.22 659.39 Tm (bit ) Tj
+/F1 9.50 Tf
+1 0 0 1 497.89 659.39 Tm (count ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 646.19 Tm (S_BH ) Tj
+/F1 9.50 Tf
+1 0 0 1 89.45 646.19 Tm (/ ) Tj
+/F1 9.50 Tf
+1 0 0 1 94.74 646.19 Tm (ln ) Tj
+/F1 9.50 Tf
+1 0 0 1 104.77 646.19 Tm (2. ) Tj
+/F1 9.50 Tf
+1 0 0 1 115.33 646.19 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 117.97 646.19 Tm (So ) Tj
+/F1 9.50 Tf
+1 0 0 1 132.23 646.19 Tm (a0 ) Tj
+/F1 9.50 Tf
+1 0 0 1 145.44 646.19 Tm (reproduces ) Tj
+/F1 9.50 Tf
+1 0 0 1 195.60 646.19 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 211.44 646.19 Tm (black-hole ) Tj
+/F1 9.50 Tf
+1 0 0 1 257.38 646.19 Tm (entropy ) Tj
+/F1 9.50 Tf
+1 0 0 1 291.70 646.19 Tm (count ) Tj
+/F1 9.50 Tf
+1 0 0 1 317.58 646.19 Tm (without ) Tj
+/F1 9.50 Tf
+1 0 0 1 350.32 646.19 Tm (postulating ) Tj
+/F1 9.50 Tf
+1 0 0 1 398.90 646.19 Tm (it. ) Tj
+/F1 9.50 Tf
+1 0 0 1 408.93 646.19 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 411.57 646.19 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 430.58 646.19 Tm (native ) Tj
+/F1 9.50 Tf
+1 0 0 1 458.57 646.19 Tm (entropy ) Tj
+/F1 9.50 Tf
+1 0 0 1 492.89 646.19 Tm (density ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 632.99 Tm (at ) Tj
+/F1 9.50 Tf
+1 0 0 1 72.56 632.99 Tm (saturation ) Tj
+/F1 9.50 Tf
+1 0 0 1 116.92 632.99 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 126.42 632.99 Tm (one ) Tj
+/F1 9.50 Tf
+1 0 0 1 144.91 632.99 Tm (nat ) Tj
+/F1 9.50 Tf
+1 0 0 1 160.75 632.99 Tm (per ) Tj
+/F1 9.50 Tf
+1 0 0 1 177.12 632.99 Tm (quantum: ) Tj
+/F1 9.50 Tf
+1 0 0 1 219.37 632.99 Tm (sigma_sat ) Tj
+/F1 9.50 Tf
+1 0 0 1 265.30 632.99 Tm (= ) Tj
+/F1 9.50 Tf
+1 0 0 1 273.49 632.99 Tm (1/a0.) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 613.79 Tm (G.2 ) Tj
+/F1 9.50 Tf
+1 0 0 1 79.95 613.79 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 82.60 613.79 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 101.61 613.79 Tm (native ) Tj
+/F1 9.50 Tf
+1 0 0 1 129.59 613.79 Tm (time ) Tj
+/F1 9.50 Tf
+1 0 0 1 150.18 613.79 Tm (and ) Tj
+/F1 9.50 Tf
+1 0 0 1 168.67 613.79 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 184.51 613.79 Tm (saturation ) Tj
+/F1 9.50 Tf
+1 0 0 1 228.87 613.79 Tm (speed. ) Tj
+/F1 9.50 Tf
+1 0 0 1 260.03 613.79 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 262.67 613.79 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 281.68 613.79 Tm (substrate ) Tj
+/F1 9.50 Tf
+1 0 0 1 323.39 613.79 Tm (has ) Tj
+/F1 9.50 Tf
+1 0 0 1 341.35 613.79 Tm (its ) Tj
+/F1 9.50 Tf
+1 0 0 1 353.49 613.79 Tm (own ) Tj
+/F1 9.50 Tf
+1 0 0 1 373.55 613.79 Tm (time ) Tj
+/F1 9.50 Tf
+1 0 0 1 394.14 613.79 Tm (tau ) Tj
+/F1 9.50 Tf
+1 0 0 1 409.99 613.79 Tm (\(section ) Tj
+/F1 9.50 Tf
+1 0 0 1 445.89 613.79 Tm (5.5\). ) Tj
+/F1 9.50 Tf
+1 0 0 1 467.54 613.79 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 470.18 613.79 Tm (Let ) Tj
+/F1 9.50 Tf
+1 0 0 1 486.02 613.79 Tm (tau_q ) Tj
+/F1 9.50 Tf
+1 0 0 1 512.43 613.79 Tm (be ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 600.59 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 77.85 600.59 Tm (substrate ) Tj
+/F1 9.50 Tf
+1 0 0 1 119.56 600.59 Tm (time ) Tj
+/F1 9.50 Tf
+1 0 0 1 140.15 600.59 Tm (per ) Tj
+/F1 9.50 Tf
+1 0 0 1 156.52 600.59 Tm (quantum ) Tj
+/F1 9.50 Tf
+1 0 0 1 196.12 600.59 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 206.69 600.59 Tm (area ) Tj
+/F1 9.50 Tf
+1 0 0 1 228.34 600.59 Tm (advance. ) Tj
+/F1 9.50 Tf
+1 0 0 1 269.53 600.59 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 272.17 600.59 Tm (Then ) Tj
+/F1 9.50 Tf
+1 0 0 1 296.46 600.59 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 312.31 600.59 Tm (interface ) Tj
+/F1 9.50 Tf
+1 0 0 1 351.38 600.59 Tm (advances ) Tj
+/F1 9.50 Tf
+1 0 0 1 394.68 600.59 Tm (at ) Tj
+/F1 9.50 Tf
+1 0 0 1 405.24 600.59 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 413.17 600.59 Tm (native ) Tj
+/F1 9.50 Tf
+1 0 0 1 441.15 600.59 Tm (area ) Tj
+/F1 9.50 Tf
+1 0 0 1 462.81 600.59 Tm (speed ) Tj
+/F1 9.50 Tf
+1 0 0 1 491.32 600.59 Tm (v_s ) Tj
+/F1 9.50 Tf
+1 0 0 1 508.75 600.59 Tm (= ) Tj
+/F1 9.50 Tf
+1 0 0 1 516.94 600.59 Tm (a0 ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 587.39 Tm (/ ) Tj
+/F1 9.50 Tf
+1 0 0 1 67.28 587.39 Tm (tau_q ) Tj
+/F1 9.50 Tf
+1 0 0 1 93.69 587.39 Tm (and ) Tj
+/F1 9.50 Tf
+1 0 0 1 112.18 587.39 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 120.10 587.39 Tm (native ) Tj
+/F1 9.50 Tf
+1 0 0 1 148.09 587.39 Tm (linear ) Tj
+/F1 9.50 Tf
+1 0 0 1 173.96 587.39 Tm (speed ) Tj
+/F1 9.50 Tf
+1 0 0 1 202.48 587.39 Tm (v_s,lin ) Tj
+/F1 9.50 Tf
+1 0 0 1 232.04 587.39 Tm (= ) Tj
+/F1 9.50 Tf
+1 0 0 1 240.23 587.39 Tm (ell_P ) Tj
+/F1 9.50 Tf
+1 0 0 1 263.99 587.39 Tm (/ ) Tj
+/F1 9.50 Tf
+1 0 0 1 269.27 587.39 Tm (tau_q. ) Tj
+/F1 9.50 Tf
+1 0 0 1 298.32 587.39 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 300.96 587.39 Tm (CONJECTURE ) Tj
+/F1 9.50 Tf
+1 0 0 1 368.52 587.39 Tm (K ) Tj
+/F1 9.50 Tf
+1 0 0 1 377.50 587.39 Tm (\(readout-causality ) Tj
+/F1 9.50 Tf
+1 0 0 1 455.63 587.39 Tm (bound\): ) Tj
+/F1 9.50 Tf
+1 0 0 1 490.49 587.39 Tm (the ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 574.19 Tm (readout ) Tj
+/F1 9.50 Tf
+1 0 0 1 96.86 574.19 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 106.36 574.19 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 122.20 574.19 Tm (metric ) Tj
+/F1 9.50 Tf
+1 0 0 1 150.70 574.19 Tm (\(P4\), ) Tj
+/F1 9.50 Tf
+1 0 0 1 173.93 574.19 Tm (so ) Tj
+/F1 9.50 Tf
+1 0 0 1 186.60 574.19 Tm (any ) Tj
+/F1 9.50 Tf
+1 0 0 1 204.56 574.19 Tm (observer ) Tj
+/F1 9.50 Tf
+1 0 0 1 244.15 574.19 Tm (built ) Tj
+/F1 9.50 Tf
+1 0 0 1 264.22 574.19 Tm (from ) Tj
+/F1 9.50 Tf
+1 0 0 1 285.86 574.19 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 301.70 574.19 Tm (readout ) Tj
+/F1 9.50 Tf
+1 0 0 1 336.56 574.19 Tm (sees ) Tj
+/F1 9.50 Tf
+1 0 0 1 359.26 574.19 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 367.19 574.19 Tm (light ) Tj
+/F1 9.50 Tf
+1 0 0 1 387.25 574.19 Tm (cone ) Tj
+/F1 9.50 Tf
+1 0 0 1 410.49 574.19 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 421.05 574.19 Tm (speed ) Tj
+/F1 9.50 Tf
+1 0 0 1 449.57 574.19 Tm (c. ) Tj
+/F1 9.50 Tf
+1 0 0 1 459.60 574.19 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 462.24 574.19 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 481.25 574.19 Tm (interface ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 560.99 Tm (advances ) Tj
+/F1 9.50 Tf
+1 0 0 1 105.30 560.99 Tm (through ) Tj
+/F1 9.50 Tf
+1 0 0 1 140.16 560.99 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 156.00 560.99 Tm (substrate; ) Tj
+/F1 9.50 Tf
+1 0 0 1 200.36 560.99 Tm (its ) Tj
+/F1 9.50 Tf
+1 0 0 1 212.50 560.99 Tm (image ) Tj
+/F1 9.50 Tf
+1 0 0 1 241.01 560.99 Tm (under ) Tj
+/F1 9.50 Tf
+1 0 0 1 267.94 560.99 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 283.79 560.99 Tm (readout ) Tj
+/F1 9.50 Tf
+1 0 0 1 318.64 560.99 Tm (map ) Tj
+/F1 9.50 Tf
+1 0 0 1 339.76 560.99 Tm (cannot ) Tj
+/F1 9.50 Tf
+1 0 0 1 370.92 560.99 Tm (exceed ) Tj
+/F1 9.50 Tf
+1 0 0 1 404.19 560.99 Tm (c, ) Tj
+/F1 9.50 Tf
+1 0 0 1 414.22 560.99 Tm (or ) Tj
+/F1 9.50 Tf
+1 0 0 1 425.31 560.99 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 441.15 560.99 Tm (metric ) Tj
+/F1 9.50 Tf
+1 0 0 1 469.65 560.99 Tm (would ) Tj
+/F1 9.50 Tf
+1 0 0 1 497.11 560.99 Tm (be ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 547.79 Tm (non-causal. ) Tj
+/F1 9.50 Tf
+1 0 0 1 113.75 547.79 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 116.39 547.79 Tm (Hence ) Tj
+/F1 9.50 Tf
+1 0 0 1 146.48 547.79 Tm (v_s,lin ) Tj
+/F1 9.50 Tf
+1 0 0 1 176.05 547.79 Tm (<= ) Tj
+/F1 9.50 Tf
+1 0 0 1 189.78 547.79 Tm (c, ) Tj
+/F1 9.50 Tf
+1 0 0 1 199.82 547.79 Tm (with ) Tj
+/F1 9.50 Tf
+1 0 0 1 219.35 547.79 Tm (equality ) Tj
+/F1 9.50 Tf
+1 0 0 1 254.73 547.79 Tm (only ) Tj
+/F1 9.50 Tf
+1 0 0 1 274.79 547.79 Tm (if ) Tj
+/F1 9.50 Tf
+1 0 0 1 282.18 547.79 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 298.03 547.79 Tm (substrate ) Tj
+/F1 9.50 Tf
+1 0 0 1 339.74 547.79 Tm (saturates ) Tj
+/F1 9.50 Tf
+1 0 0 1 381.46 547.79 Tm (at ) Tj
+/F1 9.50 Tf
+1 0 0 1 392.02 547.79 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 407.87 547.79 Tm (readout ) Tj
+/F1 9.50 Tf
+1 0 0 1 442.72 547.79 Tm (speed ) Tj
+/F1 9.50 Tf
+1 0 0 1 471.24 547.79 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 481.81 547.79 Tm (light.) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 528.59 Tm (LEMMA ) Tj
+/F1 9.50 Tf
+1 0 0 1 98.42 528.59 Tm (G.1 ) Tj
+/F1 9.50 Tf
+1 0 0 1 116.38 528.59 Tm (\(the ) Tj
+/F1 9.50 Tf
+1 0 0 1 135.39 528.59 Tm (bound ) Tj
+/F1 9.50 Tf
+1 0 0 1 164.44 528.59 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 173.94 528.59 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 189.78 528.59 Tm (only ) Tj
+/F1 9.50 Tf
+1 0 0 1 209.85 528.59 Tm (constraint\). ) Tj
+/F1 9.50 Tf
+1 0 0 1 259.48 528.59 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 262.12 528.59 Tm (No ) Tj
+/F1 9.50 Tf
+1 0 0 1 276.90 528.59 Tm (other ) Tj
+/F1 9.50 Tf
+1 0 0 1 301.19 528.59 Tm (postulate ) Tj
+/F1 9.50 Tf
+1 0 0 1 342.38 528.59 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 352.95 528.59 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 368.79 528.59 Tm (framework ) Tj
+/F1 9.50 Tf
+1 0 0 1 415.77 528.59 Tm (bounds ) Tj
+/F1 9.50 Tf
+1 0 0 1 449.57 528.59 Tm (v_s,lin ) Tj
+/F1 9.50 Tf
+1 0 0 1 479.14 528.59 Tm (from ) Tj
+/F1 9.50 Tf
+1 0 0 1 500.78 528.59 Tm (above. ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 515.39 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 64.64 515.39 Tm (Therefore ) Tj
+/F1 9.50 Tf
+1 0 0 1 108.46 515.39 Tm (v_s,lin ) Tj
+/F1 9.50 Tf
+1 0 0 1 138.03 515.39 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 147.53 515.39 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 155.45 515.39 Tm (free ) Tj
+/F1 9.50 Tf
+1 0 0 1 174.46 515.39 Tm (parameter ) Tj
+/F1 9.50 Tf
+1 0 0 1 220.39 515.39 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 230.96 515.39 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 246.80 515.39 Tm (substrate ) Tj
+/F1 9.50 Tf
+1 0 0 1 288.52 515.39 Tm (dynamics, ) Tj
+/F1 9.50 Tf
+1 0 0 1 333.92 515.39 Tm (to ) Tj
+/F1 9.50 Tf
+1 0 0 1 344.48 515.39 Tm (be ) Tj
+/F1 9.50 Tf
+1 0 0 1 357.69 515.39 Tm (fixed ) Tj
+/F1 9.50 Tf
+1 0 0 1 380.39 515.39 Tm (by ) Tj
+/F1 9.50 Tf
+1 0 0 1 393.07 515.39 Tm (data, ) Tj
+/F1 9.50 Tf
+1 0 0 1 416.83 515.39 Tm (not ) Tj
+/F1 9.50 Tf
+1 0 0 1 432.68 515.39 Tm (by ) Tj
+/F1 9.50 Tf
+1 0 0 1 445.35 515.39 Tm (theory.) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 496.19 Tm (G.3 ) Tj
+/F1 9.50 Tf
+1 0 0 1 79.95 496.19 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 82.60 496.19 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 101.61 496.19 Tm (constant. ) Tj
+/F1 9.50 Tf
+1 0 0 1 142.80 496.19 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 145.44 496.19 Tm (CONJECTURE ) Tj
+/F1 9.50 Tf
+1 0 0 1 212.99 496.19 Tm (L ) Tj
+/F1 9.50 Tf
+1 0 0 1 220.92 496.19 Tm (\(the ) Tj
+/F1 9.50 Tf
+1 0 0 1 239.93 496.19 Tm (constant ) Tj
+/F1 9.50 Tf
+1 0 0 1 278.48 496.19 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 287.98 496.19 Tm (physical, ) Tj
+/F1 9.50 Tf
+1 0 0 1 327.57 496.19 Tm (not ) Tj
+/F1 9.50 Tf
+1 0 0 1 343.42 496.19 Tm (conventional\). ) Tj
+/F1 9.50 Tf
+1 0 0 1 405.20 496.19 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 407.84 496.19 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 426.85 496.19 Tm (parameter ) Tj
+/F1 9.50 Tf
+1 0 0 1 472.78 496.19 Tm (v_s,lin ) Tj
+/F1 9.50 Tf
+1 0 0 1 502.34 496.19 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 511.84 496.19 Tm (not ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 482.99 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 69.92 482.99 Tm (choice ) Tj
+/F1 9.50 Tf
+1 0 0 1 100.02 482.99 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 110.58 482.99 Tm (units. ) Tj
+/F1 9.50 Tf
+1 0 0 1 135.93 482.99 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 138.57 482.99 Tm (It ) Tj
+/F1 9.50 Tf
+1 0 0 1 146.49 482.99 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 155.99 482.99 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 171.84 482.99 Tm (one ) Tj
+/F1 9.50 Tf
+1 0 0 1 190.33 482.99 Tm (free ) Tj
+/F1 9.50 Tf
+1 0 0 1 209.34 482.99 Tm (parameter ) Tj
+/F1 9.50 Tf
+1 0 0 1 255.27 482.99 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 265.83 482.99 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 281.68 482.99 Tm (saturation ) Tj
+/F1 9.50 Tf
+1 0 0 1 326.03 482.99 Tm (dynamics, ) Tj
+/F1 9.50 Tf
+1 0 0 1 371.43 482.99 Tm (and ) Tj
+/F1 9.50 Tf
+1 0 0 1 389.92 482.99 Tm (it ) Tj
+/F1 9.50 Tf
+1 0 0 1 397.31 482.99 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 406.81 482.99 Tm (physical ) Tj
+/F1 9.50 Tf
+1 0 0 1 443.77 482.99 Tm (in ) Tj
+/F1 9.50 Tf
+1 0 0 1 453.80 482.99 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 469.65 482.99 Tm (sense ) Tj
+/F1 9.50 Tf
+1 0 0 1 497.63 482.99 Tm (that ) Tj
+/F1 9.50 Tf
+1 0 0 1 516.12 482.99 Tm (it ) Tj
+/F1 9.50 Tf
+1 0 0 1 523.51 482.99 Tm (is ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 469.79 Tm (measurable: ) Tj
+/F1 9.50 Tf
+1 0 0 1 116.91 469.79 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 132.76 469.79 Tm (physical ) Tj
+/F1 9.50 Tf
+1 0 0 1 169.71 469.79 Tm (Page ) Tj
+/F1 9.50 Tf
+1 0 0 1 194.53 469.79 Tm (time ) Tj
+/F1 9.50 Tf
+1 0 0 1 215.12 469.79 Tm (t_P ) Tj
+/F1 9.50 Tf
+1 0 0 1 232.02 469.79 Tm (and ) Tj
+/F1 9.50 Tf
+1 0 0 1 250.51 469.79 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 266.35 469.79 Tm (substrate ) Tj
+/F1 9.50 Tf
+1 0 0 1 308.07 469.79 Tm (turnover ) Tj
+/F1 9.50 Tf
+1 0 0 1 345.56 469.79 Tm (tau_s ) Tj
+/F1 9.50 Tf
+1 0 0 1 371.43 469.79 Tm (are ) Tj
+/F1 9.50 Tf
+1 0 0 1 387.80 469.79 Tm (related ) Tj
+/F1 9.50 Tf
+1 0 0 1 419.48 469.79 Tm (by ) Tj
+/F1 9.50 Tf
+1 0 0 1 432.16 469.79 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 440.08 469.79 Tm (map ) Tj
+/F1 9.50 Tf
+1 0 0 1 461.20 469.79 Tm (whose ) Tj
+/F1 9.50 Tf
+1 0 0 1 491.30 469.79 Tm (Jacobian ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 456.59 Tm (depends ) Tj
+/F1 9.50 Tf
+1 0 0 1 101.08 456.59 Tm (on ) Tj
+/F1 9.50 Tf
+1 0 0 1 114.29 456.59 Tm (v_s,lin, ) Tj
+/F1 9.50 Tf
+1 0 0 1 146.49 456.59 Tm (so ) Tj
+/F1 9.50 Tf
+1 0 0 1 159.17 456.59 Tm (a ) Tj
+/F1 9.50 Tf
+1 0 0 1 167.09 456.59 Tm (single ) Tj
+/F1 9.50 Tf
+1 0 0 1 194.54 456.59 Tm (analog-horizon ) Tj
+/F1 9.50 Tf
+1 0 0 1 260.02 456.59 Tm (measurement ) Tj
+/F1 9.50 Tf
+1 0 0 1 320.73 456.59 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 331.30 456.59 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 347.14 456.59 Tm (Page-time ) Tj
+/F1 9.50 Tf
+1 0 0 1 393.07 456.59 Tm (shift ) Tj
+/F1 9.50 Tf
+1 0 0 1 413.14 456.59 Tm (pins ) Tj
+/F1 9.50 Tf
+1 0 0 1 433.20 456.59 Tm (it. ) Tj
+/F1 9.50 Tf
+1 0 0 1 443.24 456.59 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 445.88 456.59 Tm (Two ) Tj
+/F1 9.50 Tf
+1 0 0 1 466.46 456.59 Tm (experiments ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 443.39 Tm (that ) Tj
+/F1 9.50 Tf
+1 0 0 1 80.49 443.39 Tm (disagree ) Tj
+/F1 9.50 Tf
+1 0 0 1 119.56 443.39 Tm (about ) Tj
+/F1 9.50 Tf
+1 0 0 1 145.97 443.39 Tm (v_s,lin ) Tj
+/F1 9.50 Tf
+1 0 0 1 175.53 443.39 Tm (are ) Tj
+/F1 9.50 Tf
+1 0 0 1 191.90 443.39 Tm (disagreeing ) Tj
+/F1 9.50 Tf
+1 0 0 1 243.65 443.39 Tm (about ) Tj
+/F1 9.50 Tf
+1 0 0 1 270.06 443.39 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 285.91 443.39 Tm (substrate, ) Tj
+/F1 9.50 Tf
+1 0 0 1 330.26 443.39 Tm (not ) Tj
+/F1 9.50 Tf
+1 0 0 1 346.11 443.39 Tm (about ) Tj
+/F1 9.50 Tf
+1 0 0 1 372.52 443.39 Tm (notation. ) Tj
+/F1 9.50 Tf
+1 0 0 1 411.60 443.39 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 414.24 443.39 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 433.25 443.39 Tm (framework ) Tj
+/F1 9.50 Tf
+1 0 0 1 480.23 443.39 Tm (therefore ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 430.19 Tm (has ) Tj
+/F1 9.50 Tf
+1 0 0 1 79.95 430.19 Tm (exactly ) Tj
+/F1 9.50 Tf
+1 0 0 1 112.16 430.19 Tm (one ) Tj
+/F1 9.50 Tf
+1 0 0 1 130.65 430.19 Tm (undetermined ) Tj
+/F1 9.50 Tf
+1 0 0 1 191.37 430.19 Tm (constant ) Tj
+/F1 9.50 Tf
+1 0 0 1 229.92 430.19 Tm (beyond ) Tj
+/F1 9.50 Tf
+1 0 0 1 263.72 430.19 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 279.57 430.19 Tm (established ) Tj
+/F1 9.50 Tf
+1 0 0 1 330.26 430.19 Tm (ones.) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 410.99 Tm (G.4 ) Tj
+/F1 9.50 Tf
+1 0 0 1 79.95 410.99 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 82.60 410.99 Tm (Dimensional ) Tj
+/F1 9.50 Tf
+1 0 0 1 137.50 410.99 Tm (self-consistency. ) Tj
+/F1 9.50 Tf
+1 0 0 1 210.35 410.99 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 212.99 410.99 Tm (The ) Tj
+/F1 9.50 Tf
+1 0 0 1 232.00 410.99 Tm (native ) Tj
+/F1 9.50 Tf
+1 0 0 1 259.99 410.99 Tm (unit ) Tj
+/F1 9.50 Tf
+1 0 0 1 277.94 410.99 Tm (system ) Tj
+/F1 9.50 Tf
+1 0 0 1 310.67 410.99 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 320.17 410.99 Tm (closed: ) Tj
+/F1 9.50 Tf
+1 0 0 1 352.91 410.99 Tm ([a0] ) Tj
+/F1 9.50 Tf
+1 0 0 1 371.40 410.99 Tm (= ) Tj
+/F1 9.50 Tf
+1 0 0 1 379.59 410.99 Tm (L^2, ) Tj
+/F1 9.50 Tf
+1 0 0 1 399.89 410.99 Tm ([sigma_sat] ) Tj
+/F1 9.50 Tf
+1 0 0 1 451.10 410.99 Tm (= ) Tj
+/F1 9.50 Tf
+1 0 0 1 459.29 410.99 Tm (1/L^2, ) Tj
+/F1 9.50 Tf
+1 0 0 1 487.51 410.99 Tm ([v_s,lin] ) Tj
+/F1 9.50 Tf
+1 0 0 1 522.36 410.99 Tm (= ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 397.79 Tm (L/T_sub, ) Tj
+/F1 9.50 Tf
+1 0 0 1 101.61 397.79 Tm ([tau_q] ) Tj
+/F1 9.50 Tf
+1 0 0 1 133.30 397.79 Tm (= ) Tj
+/F1 9.50 Tf
+1 0 0 1 141.49 397.79 Tm (T_sub, ) Tj
+/F1 9.50 Tf
+1 0 0 1 173.17 397.79 Tm (with ) Tj
+/F1 9.50 Tf
+1 0 0 1 192.70 397.79 Tm (T_sub ) Tj
+/F1 9.50 Tf
+1 0 0 1 221.74 397.79 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 237.59 397.79 Tm (substrate ) Tj
+/F1 9.50 Tf
+1 0 0 1 279.30 397.79 Tm (time. ) Tj
+/F1 9.50 Tf
+1 0 0 1 302.53 397.79 Tm ( ) Tj
+/F1 9.50 Tf
+1 0 0 1 305.17 397.79 Tm (Converting ) Tj
+/F1 9.50 Tf
+1 0 0 1 353.75 397.79 Tm (to ) Tj
+/F1 9.50 Tf
+1 0 0 1 364.31 397.79 Tm (SI ) Tj
+/F1 9.50 Tf
+1 0 0 1 375.93 397.79 Tm (requires ) Tj
+/F1 9.50 Tf
+1 0 0 1 412.88 397.79 Tm (only ) Tj
+/F1 9.50 Tf
+1 0 0 1 432.95 397.79 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 448.79 397.79 Tm (standard ) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 384.59 Tm (constants; ) Tj
+/F1 9.50 Tf
+1 0 0 1 107.94 384.59 Tm (no ) Tj
+/F1 9.50 Tf
+1 0 0 1 121.15 384.59 Tm (new ) Tj
+/F1 9.50 Tf
+1 0 0 1 141.21 384.59 Tm (dimensional ) Tj
+/F1 9.50 Tf
+1 0 0 1 194.53 384.59 Tm (scale ) Tj
+/F1 9.50 Tf
+1 0 0 1 219.35 384.59 Tm (is ) Tj
+/F1 9.50 Tf
+1 0 0 1 228.85 384.59 Tm (introduced.) Tj
+ET
+BT
+/F1 9.50 Tf
+1 0 0 1 62.00 365.39 Tm (Figure: ) Tj
+/F1 9.50 Tf
+1 0 0 1 94.20 365.39 Tm (figures/fig_regimes.svg ) Tj
+/F1 9.50 Tf
+1 0 0 1 194.52 365.39 Tm (shows ) Tj
+/F1 9.50 Tf
+1 0 0 1 224.08 365.39 Tm (the ) Tj
+/F1 9.50 Tf
+1 0 0 1 239.93 365.39 Tm (three ) Tj
+/F1 9.50 Tf
+1 0 0 1 264.22 365.39 Tm (regimes ) Tj
+/F1 9.50 Tf
+1 0 0 1 300.64 365.39 Tm (of ) Tj
+/F1 9.50 Tf
+1 0 0 1 311.20 365.39 Tm (v_s,lin ) Tj
+/F1 9.50 Tf
+1 0 0 1 340.77 365.39 Tm (/ ) Tj
+/F1 9.50 Tf
+1 0 0 1 346.05 365.39 Tm (c.) Tj
+ET
+0 0 0 rg
+62 42 m 533.276 42 l 0.6 w S
+BT
+ET
+0.35 0.35 0.35 rg
+BT
+/F1 8.00 Tf
+1 0 0 1 89.44 30.00 Tm (Physics-for-Blackhole 2.0  |  every claim labelled: THEOREM / ESTABLISHED / CONJECTURE / PREDICTION    |    page 23) Tj
+ET
+0 0 0 rg
+
+endstream
+endobj
+55 0 obj
 << /Title (Physics-for-Blackhole: a framework for describing black holes as unified objects - proceedings) /Author (Physics-for-Blackhole research programme) /Subject (Black holes as unified objects: theorems, proofs and numerical verification) /Creator (pdflib.py) /Producer (pdflib.py) >>
 endobj
 xref
-0 54
+0 56
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000269 00000 n 
-0000000366 00000 n 
-0000000471 00000 n 
-0000000573 00000 n 
-0000000682 00000 n 
-0000000777 00000 n 
-0000000877 00000 n 
-0000001086 00000 n 
-0000015759 00000 n 
-0000015969 00000 n 
-0000047487 00000 n 
-0000047697 00000 n 
-0000078407 00000 n 
-0000078617 00000 n 
-0000092961 00000 n 
-0000093171 00000 n 
-0000131812 00000 n 
-0000132022 00000 n 
-0000159521 00000 n 
-0000159731 00000 n 
-0000164798 00000 n 
-0000165008 00000 n 
-0000198361 00000 n 
-0000198571 00000 n 
-0000330715 00000 n 
-0000330925 00000 n 
-0000338630 00000 n 
-0000338840 00000 n 
-0000375585 00000 n 
-0000375795 00000 n 
-0000401940 00000 n 
-0000402150 00000 n 
-0000403992 00000 n 
-0000404202 00000 n 
-0000436781 00000 n 
-0000436991 00000 n 
-0000458238 00000 n 
-0000458448 00000 n 
-0000490706 00000 n 
-0000490916 00000 n 
-0000495478 00000 n 
-0000495688 00000 n 
-0000505047 00000 n 
-0000505257 00000 n 
-0000539979 00000 n 
-0000540189 00000 n 
-0000552290 00000 n 
-0000552500 00000 n 
-0000561464 00000 n 
-0000561674 00000 n 
-0000582535 00000 n 
+0000000276 00000 n 
+0000000373 00000 n 
+0000000478 00000 n 
+0000000580 00000 n 
+0000000689 00000 n 
+0000000784 00000 n 
+0000000884 00000 n 
+0000001093 00000 n 
+0000017055 00000 n 
+0000017265 00000 n 
+0000048783 00000 n 
+0000048993 00000 n 
+0000079703 00000 n 
+0000079913 00000 n 
+0000094257 00000 n 
+0000094467 00000 n 
+0000133108 00000 n 
+0000133318 00000 n 
+0000160817 00000 n 
+0000161027 00000 n 
+0000166094 00000 n 
+0000166304 00000 n 
+0000199657 00000 n 
+0000199867 00000 n 
+0000332011 00000 n 
+0000332221 00000 n 
+0000339926 00000 n 
+0000340136 00000 n 
+0000376881 00000 n 
+0000377091 00000 n 
+0000403236 00000 n 
+0000403446 00000 n 
+0000405288 00000 n 
+0000405498 00000 n 
+0000438077 00000 n 
+0000438287 00000 n 
+0000459534 00000 n 
+0000459744 00000 n 
+0000492002 00000 n 
+0000492212 00000 n 
+0000496774 00000 n 
+0000496984 00000 n 
+0000506343 00000 n 
+0000506553 00000 n 
+0000541275 00000 n 
+0000541485 00000 n 
+0000553586 00000 n 
+0000553796 00000 n 
+0000562760 00000 n 
+0000562970 00000 n 
+0000584145 00000 n 
+0000584355 00000 n 
+0000607051 00000 n 
 trailer
-<< /Size 54 /Root 1 0 R /Info 53 0 R >>
+<< /Size 56 /Root 1 0 R /Info 55 0 R >>
 startxref
-582842
+607358
 %%EOF
