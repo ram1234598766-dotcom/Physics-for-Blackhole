@@ -1,6 +1,6 @@
 # Partitionism - simulation results
 
-Generated 2026-10-09 by `python3 -m simulations.run_all`.
+Generated 2026-10-20 by `python3 -m simulations.run_all`.
 
 Pure Python, no dependencies.  All quantities are exact within the stated tolerances; every random-unitary run uses a fixed seed so the numbers are reproducible.
 
@@ -12,8 +12,8 @@ Hermitian eigensolver, H = [[1, i], [-i, 2]]
   exact    [0.38196601125, 2.61803398875]
   max error = 1.110e-16
 bit spreading: consistent
-pure-state bipartition identity S(A)=S(B), max error over n=4,6,8,10 and all splits: 1.776e-15
-reduced rho: max |trace-1| = 8.882e-16, most negative eigenvalue = 6.990e-17
+pure-state bipartition identity S(A)=S(B), max error over n=4,6,8,10 and all splits: 4.441e-16
+reduced rho: max |trace-1| = 2.220e-16, most negative eigenvalue = 6.990e-17
 random block unitary: 34 blocks tested on registers of 2-5 qubits,
   max change of norm = 5.551e-16
 product state |000> under a random 3-qubit unitary: S(qubit 0) = 0.4058 nats
