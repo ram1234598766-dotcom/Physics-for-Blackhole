@@ -1,12 +1,29 @@
-# PARTITIONISM
+# Physics-for-Blackhole
 
 ### A new stream of physics whose object is the black hole as a whole
 
 **Status:** speculative research framework (research proposal, not a published theory)
-**Date:** 2026-10-09
-**Honesty contract:** every factual statement, number and reference in the "established physics" parts of this document is real and verifiable. Everything specific to Partitionism — the postulates, the conjectures, the predictions — is marked as conjecture and is *not* established physics.
+**Date:** 2026-10-20
+**Honesty contract:** every factual statement, number and reference in the "established physics" parts of this document is real and verifiable. Everything specific to Physics-for-Blackhole -- the postulates, the conjectures, the predictions -- is marked as conjecture and is *not* established physics.
 
 ---
+
+## Repository map
+
+| path | contents |
+|---|---|
+| `theory/` | the proceedings PDF (`theory/partitionism.pdf`) and its build, verify and audit toolchain |
+| `simulations/` | the numerical verification suite |
+
+Run the suite with `python3 -m simulations.run_all`; build the PDF with
+`python3 -m theory.build_paper`.
+
+This document is the theory companion to that PDF.  The two are kept in sync:
+every claim that appears here appears in the proceedings, and every number
+reported here is produced by the code in `simulations/`.
+
+---
+
 
 ## Table of contents
 
@@ -35,13 +52,13 @@
 
 Modern physics can describe a black hole piecewise and cannot describe it as one object. It has a metric for the outside (Schwarzschild 1916), a metric for the rotating case (Kerr 1963), a thermal atmosphere (Hawking 1975), a microscopic entropy counting for some supersymmetric cases (string theory; Strominger–Vafa 1996), a unitary answer for some evaporating holes in AdS/CFT (2019–), and at least five mutually incompatible proposals for the endpoint. None of these is a *life cycle*.
 
-Partitionism is an attempt to write that life cycle in a single language. It is built from three moves:
+Physics-for-Blackhole is an attempt to write that life cycle in a single language. It is built from three moves:
 
 1. **Distinctions, not substances.** What is fundamental is countable distinguishability — "cuts" of an information space and how many distinctions each cut can see.
 2. **Geometry is a readout.** Spacetime, curvature and time are the compressed output of a coarse-graining applied to the cut structure, not the stage on which that structure lives.
 3. **Saturation, not singularity.** When a cut is packed as full as information theory allows it to be packed, it cannot be compressed further; it can only be *transferred*. That refusal is what we call a horizon. The classical singularity is the artefact of asking the readout to compress past its saturation point.
 
-Everything else in this document is a consequence, and every consequence is labelled: `[ESTABLISHED]` (real physics with references), `[BORROWED]` (real idea used here as input), `[CONJECTURE]` (Partitionism's claim), `[PREDICTION]` (a commitment that can fail).
+Everything else in this document is a consequence, and every consequence is labelled: `[ESTABLISHED]` (real physics with references), `[BORROWED]` (real idea used here as input), `[CONJECTURE]` (Physics-for-Blackhole's claim), `[PREDICTION]` (a commitment that can fail).
 
 A crucial disclaimer: **no grand theory of quantum gravity has been established**, and this document does not establish one. What it does is (a) state precisely where the standard framework fails, (b) propose an axiom set from which those failures are addressed by a single mechanism, (c) implement and numerically test the mechanism (§15), and (d) commit to falsifiable signatures. Section 10 is a literature audit that states, claim by claim, what is genuinely new here and what is not. I searched for each claim twice; the audit withdrew three claims of mine that turned out to be published, and says so. I cannot guarantee that no one has ever published an equivalent statement, and Section 10 says that too. Section 14 lists the code; §15 reports the numbers.
 
@@ -181,7 +198,7 @@ The extension: when g^E_μν is **degenerate** (has a zero eigenvalue) or non-in
 
 ### 5.3 The master equation: the entropic flux balance `[CONJECTURE]`
 
-Partitionism's equation of motion for the ledger is a conservation law with two fluxes:
+Physics-for-Blackhole's equation of motion for the ledger is a conservation law with two fluxes:
 
   dS_I/dτ + dS_O/dτ = 0                     (fine; unitary)
 
@@ -254,7 +271,7 @@ so that the infalling observer's reconstruction is never perfect, never identica
 
 ## 6. The black hole in its whole: five phases
 
-| Phase | Classical story | Partitionism story |
+| Phase | Classical story | Physics-for-Blackhole story |
 |---|---|---|
 | I. Implosion | Pressure fails; horizon forms (Oppenheimer–Snyder 1939) | Cuts of Λ are successively compressed; capacity of the emerging region falls; the first cut hits S_max |
 | II. Lock-in | Event horizon exists globally; apparent horizon when it forms | Interface code switches on: N = A/ΔA logical qubits, distance d; the exterior's smoothness becomes exact *because* of the code, not in spite of it |
@@ -262,7 +279,7 @@ so that the infalling observer's reconstruction is never perfect, never identica
 | IV. Dissolution | Page curve turns around; most information leaves late | Ledger transfer is exact: what left is what came in; the staircase of §9 is the granularity of the payout |
 | V. Termination | Remnant? Bounce? Explosion? Unresolved | Fate set by the selection rule of §7 |
 
-Note what phase II does to the standard debate about *when* a horizon forms: in Partitionism the horizon is an interface property, a saturated cut, which forms when saturation is reached — a local, computable criterion — and thereafter persists as long as saturation persists. The teleological event horizon is a readout artifact. `[CONJECTURE]`
+Note what phase II does to the standard debate about *when* a horizon forms: in Physics-for-Blackhole the horizon is an interface property, a saturated cut, which forms when saturation is reached — a local, computable criterion — and thereafter persists as long as saturation persists. The teleological event horizon is a readout artifact. `[CONJECTURE]`
 
 The five phases are the "whole" that the title promises: one substrate, one law (the flux balance), one set of objects (cuts, interface, knot), from first compression to last emitted distinction.
 
@@ -292,13 +309,13 @@ The rule's attraction is that it makes the endpoint a *computable function of th
 
 ### 7.3 Why a fossil does not break the world `[CONJECTURE]`
 
-The standard objection to remnants (Giddings, PRD 46 (1992) 1347) is that arbitrarily numerous degenerate relics would be pair-produced in collisions and wreck covariance. Partitionism's answer is the code distance: the remnant couples to ordinary matter only through the interface code's logical operators, so every such process is exponentially suppressed as e^(−d) with d the remnant's code distance. The relic exists, is finite in number, and is nearly inert.
+The standard objection to remnants (Giddings, PRD 46 (1992) 1347) is that arbitrarily numerous degenerate relics would be pair-produced in collisions and wreck covariance. Physics-for-Blackhole's answer is the code distance: the remnant couples to ordinary matter only through the interface code's logical operators, so every such process is exponentially suppressed as e^(−d) with d the remnant's code distance. The relic exists, is finite in number, and is nearly inert.
 
 ---
 
 ## 8. The paradoxes, resolved
 
-| Paradox | Standard status | Partitionism's move |
+| Paradox | Standard status | Physics-for-Blackhole's move |
 |---|---|---|
 | Information loss (Hawking 1975) | Unitarity vs. thermal spectrum; unitary Page curve obtained in AdS/CFT 2019– | Ledger conservation (§5.3): the two fluxes are equal and opposite at substrate level; the Page curve is an identity, not a discovery |
 | Firewall (AMPS 2013) | Monogamy of entanglement vs. smooth horizon | The entanglement lives *at the cut* (interface), not in the bulk; the interior is logical, so no duplication is required |
@@ -339,10 +356,10 @@ If T_H is a linewidth, then the emitted power is not exactly the Planckian conti
 **Where to look:** analog Hawking emission in Bose–Einstein condensates (Garay et al., PRL 85 (2000) 4643; Unruh's programme, PRL 46 (1981) 1351) and water-wave analogs (Weinfurtner et al., PRL 106 (2011) 021302), where corrections of order (ξ/R)² ~ 10⁻³ are in principle resolvable.
 
 ### P3 — Analog-horizon discreteness is the decisive test `[PREDICTION]`
-Partitionism's corrections are suppressed by (ℓ_P/R)² and are therefore unobservable for astrophysical black holes at any foreseeable sensitivity. This is a *feature*, not a hedge: the framework is betting that the same physics appears at the analog Planck scale of tabletop horizons, where the suppression is (ξ/R)² and can be engineered to be large. A resolved line structure, or a resolved staircase, in an analog Hawking spectrum that is not explained by the condensate's own dispersion relation would be the first real evidence for a quantized interface. Absence of any such structure in a system built to look for it would be the first real evidence against.
+Physics-for-Blackhole's corrections are suppressed by (ℓ_P/R)² and are therefore unobservable for astrophysical black holes at any foreseeable sensitivity. This is a *feature*, not a hedge: the framework is betting that the same physics appears at the analog Planck scale of tabletop horizons, where the suppression is (ξ/R)² and can be engineered to be large. A resolved line structure, or a resolved staircase, in an analog Hawking spectrum that is not explained by the condensate's own dispersion relation would be the first real evidence for a quantized interface. Absence of any such structure in a system built to look for it would be the first real evidence against.
 
 ### P4 — The hair count is finite and computable `[PREDICTION]`
-The number of distinguishable interface states is N = A/ΔA.  Partitionism adopts
+The number of distinguishable interface states is N = A/ΔA.  Physics-for-Blackhole adopts
 the **published** spacing that gives exactly one bit of entropy per quantum,
 ΔA = 4 ln 2 ℓ_P² (Bekenstein–Mukhanov-type evenly spaced spectrum; Landauer
 saturation — see §10, this is *not* a claim of this framework).  For a
@@ -358,7 +375,7 @@ sharp way to test which one nature uses — but it is not a new discovery.
 The infalling observer's reconstruction fidelity is bounded below 1 but strictly positive at all times, including after the Page time. Any experiment (thought or analog) that detects a high-energy membrane at a horizon falsifies the framework outright.
 
 ### P6 — Supermassive black holes are the universe's dominant entropy carriers, and that is not an accident `[PREDICTION / re-framing]`
-Since S_obs ≈ 3.1 × 10¹⁰⁴ k_B is dominated by supermassive black holes (Egan–Lineweaver 2010), and since Partitionism takes cuts and their capacities as fundamental, the cosmic entropy budget *is* the interface budget of the largest interfaces in the universe. This is a re-framing rather than a new number, and is labelled as such.
+Since S_obs ≈ 3.1 × 10¹⁰⁴ k_B is dominated by supermassive black holes (Egan–Lineweaver 2010), and since Physics-for-Blackhole takes cuts and their capacities as fundamental, the cosmic entropy budget *is* the interface budget of the largest interfaces in the universe. This is a re-framing rather than a new number, and is labelled as such.
 
 ---
 
@@ -387,7 +404,7 @@ Since S_obs ≈ 3.1 × 10¹⁰⁴ k_B is dominated by supermassive black holes (
 | **Logical interior for one-sided, asymptotically flat holes (no boundary theory), with bounded fidelity** | AdS/CFT entanglement-wedge reconstruction (Penington; Papadodimas–Raju) | **PARTLY NEW** (new setting, same technique) |
 | **The quantised Page-time shift Δt/t = (3/4)/N and the ~18-quantum endpoint tent** | adjacent to quantized evaporation time and multi-step Page curves as above | **PARTLY NEW** |
 
-**Note on Ellerman.** Ellerman has built an extensive and rigorous programme in which the mathematics of quantum mechanics is the mathematics of set partitions linearized to vector spaces. That programme is about *logic and information measure* — distinctions ("dits") and logical entropy. Partitionism shares the vocabulary but not the object: my primitive is a **bipartition of an information space with a specified state** (a Ryu–Takayanagi-style cut), not an equivalence relation on a set, and the claim at issue is *dynamical and gravitational*, not logical. This is a genuine distinction, and Ellerman's priority on the partition formalism itself is acknowledged.
+**Note on Ellerman.** Ellerman has built an extensive and rigorous programme in which the mathematics of quantum mechanics is the mathematics of set partitions linearized to vector spaces. That programme is about *logic and information measure* — distinctions ("dits") and logical entropy. Physics-for-Blackhole shares the vocabulary but not the object: my primitive is a **bipartition of an information space with a specified state** (a Ryu–Takayanagi-style cut), not an equivalence relation on a set, and the claim at issue is *dynamical and gravitational*, not logical. This is a genuine distinction, and Ellerman's priority on the partition formalism itself is acknowledged.
 
 **What can honestly be said about novelty, after two rounds of searching.** The first round of searching removed two claims I had made flagrantly — the "one bit per area quantum" spacing and the derivation of the Page curve from capacity saturation — both of which turned out to be published. The second round found that even the "new" consequences (quantized Page-time shift, discrete Page curves, quantized area → echoes and temperature corrections) have close prior art. What survives as genuinely unprecedented, as far as I can determine, is narrower than the prose of §2–§7 suggests:
 
@@ -401,9 +418,9 @@ Everything else is either established physics, an adjacent idea, or a re-framing
 
 ## 11. Falsifiers
 
-Each item is a specific observation that would kill Partitionism.
+Each item is a specific observation that would kill Physics-for-Blackhole.
 
-**F1 — A resolved, continuous, dispersion-relation-consistent thermal spectrum in an analog horizon system engineered to resolve discreteness at its analog Planck scale.** This is the sharpest available test, and Partitionism's core commitment (§9, P2–P3).
+**F1 — A resolved, continuous, dispersion-relation-consistent thermal spectrum in an analog horizon system engineered to resolve discreteness at its analog Planck scale.** This is the sharpest available test, and Physics-for-Blackhole's core commitment (§9, P2–P3).
 
 **F2 — A substrate-level divergence.** If any fine-grained observable of the outgoing state — the entropy, the energy density, the correlation structure — is found to diverge as a hole evaporates, Conjecture R fails (the readout degeneracy would be real physics, not an artefact).
 
@@ -413,7 +430,7 @@ Each item is a specific observation that would kill Partitionism.
 
 **F5 — Failure of the flux balance in a quantum simulation.** Quantum simulations of horizon evaporation (random-unitary circuits with a Page-curve signature) are within reach; if the entropy of the "radiation" subsystem shows an irreducible loss that no re-partitioning of the simulated ledger can account for, the central thesis T5 is wrong.
 
-**F6 — A derivation of the Page curve for a one-sided, asymptotically flat black hole that does *not* require an archipelago of assumptions Partitionism would judge equivalent to its own.** This is not a refutation but a demotion: if the 2019–2022 replica-wormhole machinery turns out to apply unchanged to flat space with no extra postulates, Partitionism's contribution to the information question would be purely verbal.
+**F6 — A derivation of the Page curve for a one-sided, asymptotically flat black hole that does *not* require an archipelago of assumptions Physics-for-Blackhole would judge equivalent to its own.** This is not a refutation but a demotion: if the 2019–2022 replica-wormhole machinery turns out to apply unchanged to flat space with no extra postulates, Physics-for-Blackhole's contribution to the information question would be purely verbal.
 
 ---
 
@@ -451,7 +468,7 @@ Each item is a specific observation that would kill Partitionism.
 
 **M5 — The laboratory test (experiment).** Analog Hawking experiments designed around P3: choose the condensate parameters so that (ξ/R)² is as large as possible, and search for a residual line structure beyond the dispersion relation.
 
-**M6 — The astrophysical constraint (observation).** Constrain the interface's echo structure using gravitational-wave data on exotic compact objects and horizon-scale quantum corrections (Cardoso et al., PRD 94 (2016) 084031, arXiv:1608.08637; Cardoso–Pani, *Living Rev. Relativity* 22 (2019) 4, arXiv:1904.05363) — acknowledging in advance (§9, P1) that Partitionism's astrophysical signature is suppressed by 10⁻⁴⁰ and that any claim to the contrary from this framework should be distrusted.
+**M6 — The astrophysical constraint (observation).** Constrain the interface's echo structure using gravitational-wave data on exotic compact objects and horizon-scale quantum corrections (Cardoso et al., PRD 94 (2016) 084031, arXiv:1608.08637; Cardoso–Pani, *Living Rev. Relativity* 22 (2019) 4, arXiv:1904.05363) — acknowledging in advance (§9, P1) that Physics-for-Blackhole's astrophysical signature is suppressed by 10⁻⁴⁰ and that any claim to the contrary from this framework should be distrusted.
 
 ---
 
@@ -571,7 +588,7 @@ says the divergence belongs to the readout's Jacobian, and the framework does
 
 ### 15.4 What the simulations do and do not establish
 
-They establish that Partitionism's central mechanism is **internally
+They establish that Physics-for-Blackhole's central mechanism is **internally
 consistent, quantitatively computable, and reproduces the Page curve** in a
 controlled setting — and that its only unsuppressed quantitative signature
 (the staircase, the half-quantum Page-time shift) lives in the last ∼18 area
@@ -670,8 +687,8 @@ All entries are real and were verified during the writing of this document.
 **Cut** — a bipartition of the substrate; the fundamental relational object.
 **Distinction** — one unit of "these two qunits can be told apart"; the conserved currency.
 **Hessian degeneracy** — the technical form of a readout singularity.
-**Interface** — a saturated cut; where the horizon is in Partitionism's language.
-**Knot** — the saturated core; where the singularity is in Partitionism's language.
+**Interface** — a saturated cut; where the horizon is in Physics-for-Blackhole's language.
+**Knot** — the saturated core; where the singularity is in Physics-for-Blackhole's language.
 **Ledger** — the running account of distinctions per channel.
 **Readout** — the coarse-graining that manufactures spacetime from cuts.
 **Saturation** — the condition S(π) = S_max; the origin of discreteness.
