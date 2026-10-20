@@ -1,4 +1,4 @@
-"""Build the Partitionism research-paper PDF.
+"""Build the Physics-for-Blackhole research-paper PDF.
 
     python3 -m paper.build_paper [--out paper/partitionism.pdf]
 
@@ -8,7 +8,7 @@ Four papers plus appendices.  Every statement is labelled:
     LEMMA        proved, intermediate
     COROLLARY    proved
     ESTABLISHED  standard physics, with a citation in Appendix D
-    CONJECTURE   part of Partitionism, not proved (say so in the text)
+    CONJECTURE   part of Physics-for-Blackhole, not proved (say so in the text)
     PREDICTION   a falsifiable commitment
     NUMERICAL    verified by the simulation suite in simulations/
 
@@ -36,7 +36,7 @@ from simulations.constants import (G, C, HBAR, K_B, L_P, M_P, M_SUN,
 
 VERSION = "2.0"
 DATE = "9 October 2026"
-TITLE = "Partitionism: a framework for describing black holes as wholes"
+TITLE = "Physics-for-Blackhole: a framework for describing black holes as wholes"
 
 
 # ==========================================================================
@@ -289,13 +289,13 @@ def fig_ladder(d):
 # ==========================================================================
 def paper_i(d):
     d.heading("Paper I", 0)
-    d.heading("Partitionism: a black hole in one language", 1)
+    d.heading("Physics-for-Blackhole: a black hole in one language", 1)
     d.para("*Abstract.*  Modern physics describes the black hole piecewise: a "
            "metric outside, a thermal atmosphere, a unitary answer inside "
            "AdS/CFT, and at least three incompatible proposals for the "
            "endpoint.  There is no single language that covers collapse, "
            "horizon, interior, evaporation and termination.  We propose one.  "
-           "Partitionism takes countable distinguishability as fundamental, "
+           "Physics-for-Blackhole takes countable distinguishability as fundamental, "
            "treats a spherically defined cut of an information substrate as "
            "the object that can hold it, and derives geometry as the "
            "coarse-grained readout of the cut structure.  A black hole is a "
@@ -434,7 +434,7 @@ def paper_i(d):
            "computable content of phases III-IV, Paper III the content of "
            "phase V, and Paper IV the endpoint.")
     d.table([
-        ["Phase", "Standard story", "Partitionism story"],
+        ["Phase", "Standard story", "Physics-for-Blackhole story"],
         ["I  Implosion", "pressure fails; a horizon forms",
          "successive compression of cuts; the first cut reaches S_max"],
         ["II  Lock-in", "the event horizon exists globally",
@@ -773,7 +773,7 @@ def paper_iv(d):
            "test the framework.", size=9.5)
 
     d.heading("1.  Capacity quantisation", 2)
-    d.para("Partitionism adopts the **published** spacing that makes one area "
+    d.para("Physics-for-Blackhole adopts the **published** spacing that makes one area "
            "quantum carry exactly one bit of entropy, DeltaA = 4 ln 2 l_P^2.  "
            "This is the Bekenstein-Mukhanov evenly spaced spectrum in the "
            "form that saturates Landauer's bound, established by Bagchi, "
@@ -888,7 +888,7 @@ def appendix_a(d):
            "is established.  Anything not listed here is either ordinary "
            "exposition or a citation.  Statuses: **THM** proved in this "
            "document; **EST** established physics with a citation; **CONJ** "
-           "Partitionism conjecture, not proved; **PRED** falsifiable "
+           "Physics-for-Blackhole conjecture, not proved; **PRED** falsifiable "
            "prediction; **FALS** falsifier; **NUM** verified numerically by "
            "the simulation suite; **BORR** adopted from elsewhere, credited.")
     rows = [["#", "Claim", "Status", "How established"]]
@@ -1106,7 +1106,7 @@ def appendix_c(d):
            "`test_readout.saturated_ball` - so a figure cannot drift out of "
            "sync with the text.")
     d.para("**Scope.**  The simulations test the internal consistency and "
-           "quantitative consequences of Partitionism's claims in controlled "
+           "quantitative consequences of Physics-for-Blackhole's claims in controlled "
            "quantum systems.  They do not show that the substrate exists, and "
            "they are not observational tests of black holes.  Paper II's "
            "results are theorems and would hold in any quantum mechanics; "
