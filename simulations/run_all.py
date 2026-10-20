@@ -1,4 +1,4 @@
-"""Run the whole Partitionism test suite and write RESULTS.md.
+"""Run the whole Physics-for-Blackhole test suite and write RESULTS.md.
 
     python3 -m simulations.run_all
 
@@ -18,7 +18,7 @@ from . import validation
 def main():
     here = os.path.dirname(os.path.abspath(__file__))
     parts = []
-    parts.append("# Partitionism - simulation results\n")
+    parts.append("# Physics-for-Blackhole - simulation results\n")
     parts.append(f"Generated {datetime.date.today().isoformat()} by "
                  "`python3 -m simulations.run_all`.\n")
     parts.append("Pure Python, no dependencies.  All quantities are exact "
