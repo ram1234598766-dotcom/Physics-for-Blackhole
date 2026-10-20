@@ -51,8 +51,8 @@ black holes.  See the falsifiers in `PARTITIONISM.md` section 11.
 
 ## Origin
 
-This repository is the successor to `BlackHole-Physics`.  The earlier repo has
-been deleted; everything it contained was copied here verbatim and then
+This repository is the successor to `BlackHole-Physics`, which is kept intact
+alongside this one; everything it contained was copied here verbatim and then
 rebranded and reorganised (the `paper/` directory became `theory/`, and the
 name "Partitionism" became "Physics-for-Blackhole").  No theory content was
 changed in the move — only names and paths.
