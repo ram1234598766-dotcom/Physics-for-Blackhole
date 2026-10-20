@@ -1,4 +1,4 @@
-"""Partitionism test 3: Conjecture R - readout degeneracy.
+"""Physics-for-Blackhole test 3: Conjecture R - readout degeneracy.
 
 The claim under test:
 
