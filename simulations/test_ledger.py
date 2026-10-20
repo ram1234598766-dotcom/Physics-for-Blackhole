@@ -1,4 +1,4 @@
-"""Partitionism test 1: the evaporation ledger.
+"""Physics-for-Blackhole test 1: the evaporation ledger.
 
 Two models of the same random-unitary evaportation dynamics:
 
@@ -12,7 +12,7 @@ Two models of the same random-unitary evaportation dynamics:
       R that the observer never sees.  Same dynamics, different initial
       ledger.
 
-Partitionism's claims under test:
+Physics-for-Blackhole's claims under test:
 
   L1  the radiation's entropy is bounded by the *smaller* of the two channel
       capacities, S <= min(m, n0-m) ln2  - which is the Page curve, and whose
@@ -123,7 +123,7 @@ def main():
     p("=" * 72)
     p(f"random-unitary (Householder) ensemble, {args.trials} trials per size")
     p("")
-    p("A. PURE MICROSTATE SENDER  (Partitionism: ledger respected)")
+    p("A. PURE MICROSTATE SENDER  (Physics-for-Blackhole: ledger respected)")
     p("-" * 72)
     print(f"{'n0':>4} {'max S/ln2':>11} {'bound':>7} {'bound viol.':>12} "
           f"{'turn over':>10} {'n0/2':>7} {'S(rem)-S(rad)':>16}")
@@ -159,7 +159,7 @@ def main():
         p(row)
 
     p("")
-    p("B. THERMAL SENDER WITH PURIFIER  (Partitionism: ledger blind)")
+    p("B. THERMAL SENDER WITH PURIFIER  (Physics-for-Blackhole: ledger blind)")
     p("-" * 72)
     n0 = args.thermal_n
     rng = random.Random(4242)
